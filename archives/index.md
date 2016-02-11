@@ -1,7 +1,7 @@
 ---
 title: Archives - The Objectivism Seminar
 layout: default
-highlight: archives
+tab: archives
 ---
 
 Recordings of All Past Sessions

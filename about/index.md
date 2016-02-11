@@ -1,7 +1,7 @@
 ---
 title: About - The Objectivism Seminar
 layout: default
-highlight: about
+tab: about
 ---
 
 Invitation to The Seminar

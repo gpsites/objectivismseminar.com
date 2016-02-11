@@ -1,7 +1,7 @@
 ---
 title: People - The Objectivism Seminar
 layout: default
-highlight: people
+tab: people
 ---
 
 The Usual Suspects
@@ -18,7 +18,7 @@ and <a href="http://www.objectivistanswers.com/">Objectivist Answers</a>,
 and was the co-host of Dr. Diana Hsieh's
 <a href="http://www.philosophyinaction.com/live/">Philosophy in Action</a> Q&amp;A radio show.
 He also plays jazz saxophone professionally in groups such as <a href="http://boisesidemen.com/">The Sidemen</a>
-and <a href="http://www.kevinkirk.net/">Onomatopoeia</a>, 
+and <a href="http://www.kevinkirk.net/">Onomatopoeia</a>,
 and enjoys CrossFit, mountain biking, and snowboarding with his wife Tammy.
 
 Kyle Haight

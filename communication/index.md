@@ -1,7 +1,7 @@
 ---
 title: Communication - The Objectivism Seminar
 layout: default
-highlight: communication
+tab: communication
 ---
 
 Conference Calling Facility

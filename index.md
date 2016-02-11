@@ -1,7 +1,7 @@
 ---
 title: Home - The Objectivism Seminar
 layout: default
-highlight: home
+tab: home
 ---
 
 Engaging the Philosophy of Ayn Rand

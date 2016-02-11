@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions - The Objectivism Seminar
 layout: default
-highlight: faq
+tab: faq
 ---
 
 Frequently Asked Questions
