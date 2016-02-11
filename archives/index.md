@@ -31,9 +31,24 @@ site</a> (show id 15215).
 
 A Brief History of the Seminar's Study
 --------------------------------------
+* [_In Defense of Selfishness: Why the Code of Self-Sacrifice is Unjust and Destructive_](http://amzn.to/1GtD7Io) by Peter Schwartz (ongoing)
 
-Recently, we have had been working on essays drawn from Rand's nonfiction
-anthologies (<a title="For the New Intellectual: The Philosophy of Ayn Rand"
+* [_How We Know: Epistemology on an Objectivist Foundation_](http://amzn.to/1jHM2Nw) by Dr. Harry Binswanger (73 sessions)
+
+* [_Lectures on Psychology_](http://www.amazon.com/dp/B00ENAPR3S) by Dr. Edith Packer (17 sessions)
+
+* [_Free Market Revolution: How Ayn Rand's Ideas Can End Big Government_](http://amzn.to/101qySN) by Yaron Brook and Don Watkins (21 sessions)
+
+* [_The Dim Hypothesis: Why the Lights of the West Are Going Out_](http://www.amazon.com/dp/0451466640) by Dr. Leonard Peikoff (30 sessions)
+
+* [_Understanding Objectivism: A Guide to Learning Ayn Rand's Philosophy_](http://www.amazon.com/dp/0451236297) by Dr. Leonard Peikoff (15 sessions)
+
+* [_Tea Party Patriots: The Second American Revolution_](http://www.amazon.com/dp/B00AK3FDU4) by Mark Meckler (3 sessions)
+
+* [_Explaining Postmodernism_](http://www.amazon.com/dp/0983258406) by Stephen Hicks (7 sessions)
+
+* Many essays drawn from Rand's nonfiction anthologies
+(<a title="For the New Intellectual: The Philosophy of Ayn Rand"
 href="http://www.amazon.com/gp/product/0451163087"
 target="_blank">1</a>,<a title="Philosophy: Who Needs It"
 href="http://www.amazon.com/gp/product/0451138937"
@@ -63,25 +78,10 @@ Standard" href="http://theobjectivestandard.com/">The Objective
 Standard</a></em> journal. (Note that a good amount of this material is also
 available free online.)
 
-Before that we worked through Ayn Rand's monograph on concept formation,
-<em><a
-href="http://www.amazon.com/gp/product/0452010306"
-target="_blank">Introduction to Objectivist Epistemology</a></em>, Expanded
-Second Edition. You can access the 37 sessions as podcasts in the archives!
+* [_Introduction to Objectivist Epistemology_](http://www.amazon.com/gp/product/0452010306), Expanded Second Edition (37 sessions)
 
-Before that we enjoyed a tour of Dr. Leonard Peikoff's book, <em><a
-href="http://www.amazon.com/gp/product/0452011175">The
-Ominous Parallels</a></em>. The parallels were indeed striking given the
-acceleration toward statism that political events are showing. You can access
-the 15 sessions as podcasts in the archives!
+* [_The Ominous Parallels_](http://www.amazon.com/gp/product/0452011175) by Dr. Leonard Peikoff's (15 sessions)
 
-Before that, we worked through Dr. Leonard Peikoff's seminal
-summary, <em><a
-href="http://www.amazon.com/gp/product/0452011019"
-target="_blank">Objectivism: The Philosophy of Ayn Rand</a></em> in 53 detailed
-sessions which you can access as podcasts in the archives.
+* [_Objectivism: The Philosophy of Ayn Rand_](http://www.amazon.com/gp/product/0452011019) by Dr. Leonard Peikoff (53 sessions)
 
-And finally, the first book we studied was Dr. Tara Smith's book, <em><a
-href="http://www.amazon.com/gp/product/0521705460"
-target="_blank">Ayn Rand's Normative Ethics: The Virtuous Egoist</a></em>
-&mdash; you can access the 20 sessions as podcasts in the archives, above.
+* [_Ayn Rand's Normative Ethics: The Virtuous Egoist_](http://www.amazon.com/gp/product/0521705460) by Dr. Tara Smith (20 sessions)
