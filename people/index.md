@@ -23,7 +23,7 @@ and enjoys CrossFit, mountain biking, and snowboarding with his wife Tammy.
 
 Kyle Haight
 -----------
-<img style="float: right; margin-left: 5px; margin-right: 5px;" src="/assets/images/Objectivism_Seminar_Kyle_Haight_Bio_Pic.png" alt="Kyle Haight" width="120" height="158" />
+<img style="float: right; margin-left: 5px; margin-right: 5px;" src="/assets/images/Objectivism_Seminar_Kyle_Haight_Bio_Pic.jpg" alt="Kyle Haight" width="120" height="158" />
 Kyle is a software engineer, currently working at Amazon/Lab126 on the Kindle
 e-reader. If you've ever downloaded a book to a Kindle Paperwhite, he says "You're welcome."
 He first read Ayn Rand in 1987 but didn't really figure out the "philosophy for
