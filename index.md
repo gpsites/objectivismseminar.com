@@ -24,10 +24,10 @@ Here is what we have planned:
 
 * Monday February 22, 8:00pm
   [Mountain](http://wwp.greenwichmeantime.com/time-zone/usa/mountain-time/ "mountain time"):
-  Kyle will
+  Greg will
   begin leading discussion of
-  Chapter 8 (The Goal of Self-Sacrifice)
-  at page 189
+  Chapter 9 (Choosing to Live)
+  at page 209
   of [_In Defense of Selfishness: Why the Code of Self-Sacrifice is Unjust
   and Destructive_](http://amzn.to/1GtD7Io "Amazon link") by Peter Schwartz.
 
