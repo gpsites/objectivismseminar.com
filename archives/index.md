@@ -31,7 +31,7 @@ site</a> (show id 15215).
 
 A Brief History of the Seminar's Study
 --------------------------------------
-* [_In Defense of Selfishness: Why the Code of Self-Sacrifice is Unjust and Destructive_](http://amzn.to/1GtD7Io) by Peter Schwartz (ongoing)
+* [_In Defense of Selfishness: Why the Code of Self-Sacrifice is Unjust and Destructive_](http://amzn.to/1GtD7Io) by Peter Schwartz (16 sessions)
 
 * [_How We Know: Epistemology on an Objectivist Foundation_](http://amzn.to/1jHM2Nw) by Dr. Harry Binswanger (73 sessions)
 
