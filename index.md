@@ -22,13 +22,10 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday February 22, 8:00pm
+* Monday March 7, 8:00pm
   [Mountain](http://wwp.greenwichmeantime.com/time-zone/usa/mountain-time/ "mountain time"):
-  Greg will
+  Carl will
   begin leading discussion of
-  Chapter 9 (Choosing to Live)
-  at page 209
-  of [_In Defense of Selfishness: Why the Code of Self-Sacrifice is Unjust
-  and Destructive_](http://amzn.to/1GtD7Io "Amazon link") by Peter Schwartz.
+  the article [Ten Steps to End Jihad Against the West](https://www.theobjectivestandard.com/2015/11/ten-steps-to-end-jihad-against-the-west/)
+  by Craig Biddle of [The Objective Standard](https://www.theobjectivestandard.com)
 
-![In Defense of Selfishness cover image](http://ecx.images-amazon.com/images/I/41Ub-Y3BEZL._SX327_BO1,204,203,200_.jpg){:style="margin-left:2em"}
