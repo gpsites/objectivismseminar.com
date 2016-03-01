@@ -26,6 +26,12 @@ Here is what we have planned:
   [Mountain](http://wwp.greenwichmeantime.com/time-zone/usa/mountain-time/ "mountain time"):
   Carl will
   begin leading discussion of
-  the article [Ten Steps to End Jihad Against the West](https://www.theobjectivestandard.com/2015/11/ten-steps-to-end-jihad-against-the-west/)
-  by Craig Biddle of [The Objective Standard](https://www.theobjectivestandard.com)
+  the article [Ten Steps to End Jihad Against the West][article]
+  by Craig Biddle of [The Objective Standard][tos]
 
+[![The Objective Standard cover][cover]{:style="margin-left:2em;max-width:27em"}][article]
+
+
+[cover]:   https://www.theobjectivestandard.com/wp-content/uploads/2015/12/v10n4-cover_border-medium.jpg 
+[article]: https://www.theobjectivestandard.com/2015/11/ten-steps-to-end-jihad-against-the-west/
+[tos]:     https://www.theobjectivestandard.com
