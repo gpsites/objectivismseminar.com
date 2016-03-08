@@ -25,7 +25,7 @@ Here is what we have planned:
 * Monday March 7, 8:00pm
   [Mountain](http://wwp.greenwichmeantime.com/time-zone/usa/mountain-time/ "mountain time"):
   Carl will
-  begin leading discussion of
+  continue leading our panel discussion of
   the article [Ten Steps to End Jihad Against the West][article]
   by Craig Biddle of [The Objective Standard][tos]
 
