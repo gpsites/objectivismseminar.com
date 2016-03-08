@@ -88,7 +88,7 @@ What's the fine print?
 Here are the details I could think of to keep The Objectivism Seminar sailing
 as smoothly as possible; other wrinkles will be addressed as they arise.
 
-* GOVERNANCE: To put it simply, this is not a democracy. The Objectivism Seminar is a benevolent dictatorship, and I am The Man. :^) I will work for openness and consensus and eagerly entertain suggestions about how to make this a more fun and productive adventure for all, and when there are difficulties I will do my best to be patient and fair.
+* GOVERNANCE: To put it simply, this is not a democracy. The Objectivism Seminar is a benevolent dictatorship, and I (Greg) am The Man. :^) But I will work for openness and consensus and eagerly entertain suggestions about how to make this a more fun and productive adventure for all, and when there are difficulties I will do my best to be patient and fair to help us get things straightened out. 
 * RECORDINGS: Please keep in mind that the session recordings will belong to me and may not be transferred or distributed without my explicit permission.
 
 Other questions?
