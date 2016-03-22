@@ -22,7 +22,7 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday March 21, 
+* Monday March 28,
   8:00pm [Mountain](http://wwp.greenwichmeantime.com/time-zone/usa/mountain-time/ "mountain time"):
   Carl will
   continue leading our panel discussion of
