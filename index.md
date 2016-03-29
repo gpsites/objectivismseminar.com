@@ -22,16 +22,19 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday March 28,
-  8:00pm [Mountain](http://wwp.greenwichmeantime.com/time-zone/usa/mountain-time/ "mountain time"):
-  Carl will
-  continue leading our panel discussion of
-  the article [Ten Steps to End Jihad Against the West][article]
-  by Craig Biddle of [The Objective Standard][tos]
+* Monday April 4: NO SESSION (go buy the [new book][book]!)
+* Monday April 11,
+  8:00pm [Mountain][mtn]:
+  Kyle will
+  begin leading discussion of
+  Chapter 1 ("Who Cares about Inequality") near 
+  Page 3
+  in the book [Equal Is Unfair: America's Misguided Fight Against Income Inequality][book]
+  by Don Watkins and Yaron Brook
 
-[![The Objective Standard cover][cover]{:style="margin-left:2em;max-width:27em"}][article]
+[![Equal is Unfair cover][cover]{:style="margin-left:2em;max-width:27em"}][book]
 
 
-[cover]:   https://www.theobjectivestandard.com/wp-content/uploads/2015/12/v10n4-cover_border-medium.jpg 
-[article]: https://www.theobjectivestandard.com/2015/11/ten-steps-to-end-jihad-against-the-west/
-[tos]:     https://www.theobjectivestandard.com
+[cover]:   http://ecx.images-amazon.com/images/I/516rmVn5sAL._SX325_BO1,204,203,200_.jpg
+[book]:    http://amzn.com/B015CKO1DY
+[mtn]:     http://wwp.greenwichmeantime.com/time-zone/usa/mountain-time/
