@@ -25,9 +25,9 @@ Here is what we have planned:
 * Monday May 2,
   8:00pm [Mountain][mtn]:
   Carl will
-  begin leading discussion of
+  continue leading discussion of
   Chapter 3 ("The Land of Opportunity") near 
-  Page 51
+  Page 59
   in the book [Equal Is Unfair: America's Misguided Fight Against Income Inequality][book]
   by Don Watkins and Yaron Brook
 
