@@ -22,12 +22,12 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday June 13,
+* Monday June 20,
   8:00pm [Mountain][mtn]:
   Greg will
-  begin leading discussion of
+  continue leading discussion of
   Chapter 4 ("The Conditions of Progress") near 
-  Page 83
+  Page 87
   in the book [Equal Is Unfair: America's Misguided Fight Against Income Inequality][book]
   by Don Watkins and Yaron Brook
 
