@@ -30,6 +30,7 @@ Here is what we have planned:
   Page 95
   in the book [Equal Is Unfair: America's Misguided Fight Against Income Inequality][book]
   by Don Watkins and Yaron Brook
+* Monday July 4: NO SESSION 
 
 [![Equal is Unfair cover][cover]{:style="margin-left:2em;max-width:27em"}][book]
 
