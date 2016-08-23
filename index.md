@@ -22,12 +22,12 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday August 22,
+* Monday August 29,
   8:00pm [Mountain][mtn]:
   Kyle will
   continue leading discussion of
   Chapter 6 ("The Money-Makers and the Money-Appropriators") near 
-  Page 153
+  Page 158
   in the book [Equal Is Unfair: America's Misguided Fight Against Income Inequality][book]
   by Don Watkins and Yaron Brook
 
