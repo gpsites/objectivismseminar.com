@@ -22,7 +22,11 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday October 31,
+* Monday November 7, 
+  8:00pm [Mountain][mtn]: Election-Eve Roundtable &mdash; We Prognosticate!
+* Monday November 14,
+  8:00pm [Mountain][mtn]: Post-Election Roundtable &mdash; We Evaluate!
+* Monday October 21,
   8:00pm [Mountain][mtn]:
   Andrew will
   continue leading discussion of
