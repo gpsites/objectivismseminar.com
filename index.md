@@ -24,10 +24,10 @@ Here is what we have planned:
 
 * Monday November 5,
   8:00pm [Mountain][mtn]:
-  Andrew will
-  continue leading discussion of
-  Chapter 7 ("Understanding the Campaign against Inequality") near 
-  Page 206
+  Greg will
+  begin leading discussion of
+  Chapter 8 ("Conclusion: How to Save the American Dream") near 
+  Page 219
   in the book [Equal Is Unfair: America's Misguided Fight Against Income Inequality][book]
   by Don Watkins and Yaron Brook
 
