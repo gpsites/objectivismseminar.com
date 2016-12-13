@@ -22,18 +22,17 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday November 12,
+* HOLIDAY BREAK
+* Monday January 9,
   8:00pm [Mountain][mtn]:
-  Greg will
+  Kyle will
   begin leading discussion of
-  Chapter 8 ("Conclusion: How to Save the American Dream") near 
-  Page 219
-  in the book [Equal Is Unfair: America's Misguided Fight Against Income Inequality][book]
-  by Don Watkins and Yaron Brook
+  our new book [Judicial Review in an Objective Legal System][book]
+  by Dr. Tara Smith
 
-[![Equal is Unfair cover][cover]{:style="margin-left:2em;max-width:27em"}][book]
+[![Judicial Review in an Objective Legal System cover][cover]{:style="margin-left:2em;max-width:27em"}][book]
 
 
-[cover]:   http://ecx.images-amazon.com/images/I/516rmVn5sAL._SX325_BO1,204,203,200_.jpg
-[book]:    http://amzn.com/B015CKO1DY
+[cover]:   https://images-na.ssl-images-amazon.com/images/I/410dGRxeleL.jpg
+[book]:    http://amzn.com/110753495X
 [mtn]:     http://wwp.greenwichmeantime.com/time-zone/usa/mountain-time/
