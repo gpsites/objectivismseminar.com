@@ -30,7 +30,7 @@ Here is what we have planned:
   our new book [Judicial Review in an Objective Legal System][book]
   by Dr. Tara Smith
 
-[![Judicial Review in an Objective Legal System cover][cover]{:style="margin-left:2em;max-width:27em"}][book]
+[![Judicial Review in an Objective Legal System cover][cover]{:style="margin-left:2em;max-width:20em"}][book]
 
 
 [cover]:   https://images-na.ssl-images-amazon.com/images/I/410dGRxeleL.jpg
