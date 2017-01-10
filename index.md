@@ -22,12 +22,12 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* HOLIDAY BREAK
-* Monday January 9,
+* Monday January 16,
   8:00pm [Mountain][mtn]:
   Kyle will
   begin leading discussion of
-  our new book [Judicial Review in an Objective Legal System][book]
+  Chapter 1 (Objectivity &mdash; Getting Reality Right) of
+  the book [Judicial Review in an Objective Legal System][book]
   by Dr. Tara Smith
 
 [![Judicial Review in an Objective Legal System cover][cover]{:style="margin-left:2em;max-width:25em"}][book]
