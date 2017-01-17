@@ -53,7 +53,7 @@ Once you've subscribed, you can also use this handy shortcut address for sending
             <b>Subscribe to Objectivism Seminar Discussion</b>
         </td>
     </tr>
-    <form action="http://groups.google.com/group/objectivism-seminar-announcements/boxsubscribe">
+    <form action="http://groups.google.com/group/objectivism-seminar-discussion/boxsubscribe">
         <tr>
             <td>
                 Email: <input type="text" name="email"> <input type="submit" name="sub" value="Subscribe">
