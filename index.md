@@ -22,7 +22,7 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday February 6,
+* Monday February 13,
   8:00pm [Mountain][mtn]:
   Kyle will
   continue leading discussion of
