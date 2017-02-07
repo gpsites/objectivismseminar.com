@@ -24,9 +24,9 @@ Here is what we have planned:
 
 * Monday February 13,
   8:00pm [Mountain][mtn]:
-  Kyle will
-  continue leading discussion of
-  Chapter 1 (Objectivity &mdash; Getting Reality Right) of
+  Carl will
+  begin leading discussion of
+  Chapter 2 (Objectivity in a Legal System &mdash; Three Cornerstones) of
   the book [Judicial Review in an Objective Legal System][book]
   by Dr. Tara Smith
 
