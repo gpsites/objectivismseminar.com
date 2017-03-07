@@ -22,11 +22,11 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday March 6,
+* Monday March 13,
   8:00pm [Mountain][mtn]:
-  Carl will
-  continue leading discussion of
-  Chapter 2 (Objectivity in a Legal System &mdash; Three Cornerstones) of
+  Andrew will
+  begin leading discussion of
+  Chapter 3 (The Moral Imperative of the Rule of Law) of
   the book [Judicial Review in an Objective Legal System][book]
   by Dr. Tara Smith
 
