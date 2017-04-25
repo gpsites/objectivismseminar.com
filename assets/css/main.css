@@ -246,6 +246,17 @@ body #page{
 	font-weight: bold;
 	}
 
+.rssItemTitle {
+    font-size: 120%;
+}
+.rssItemSummary {
+    padding-bottom: 1em;
+}
+.rssItemDate {
+    color: darkgray;
+}
+
+
 /**** Clear Div ***/
 
 
