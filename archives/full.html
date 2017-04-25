@@ -48,7 +48,12 @@
                 <div id="left">
                     <h1>All Previous TalkShoe Sessions</h1>
                     <p>&nbsp;</p>
-                    <input v-model="filter" placeholder="type to filter"> (showing {{filteredSessions.length}})
+                    <div v-if="sessions.length">
+                      <input v-model="filter" placeholder="type to filter"> (showing {{filteredSessions.length}} of {{sessions.length}})
+                    <div>
+                    <div v-else>
+                      loading data...
+                    </div>
                     <p>&nbsp;</p>
                     <div id="rssSummaryList110" class="rssSummaryList" v-for="session in filteredSessions" :key="session.link">
 
