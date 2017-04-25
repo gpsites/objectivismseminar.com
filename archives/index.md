@@ -31,6 +31,10 @@ site</a> (show id 15215).
 
 A Brief History of the Seminar's Study
 --------------------------------------
+* [_Judicial Review in an Objective Legal System_](http://amzn.com/110753495X) by Dr. Tara Smith (ongoing)
+
+* [_Equal Is Unfair: America's Misguided Fight Against Income Inequality_](http://amzn.com/B015CKO1DY) by Don Watkins and Yaron Brook (28 sessions)
+
 * [_In Defense of Selfishness: Why the Code of Self-Sacrifice is Unjust and Destructive_](http://amzn.to/1GtD7Io) by Peter Schwartz (16 sessions)
 
 * [_How We Know: Epistemology on an Objectivist Foundation_](http://amzn.to/1jHM2Nw) by Dr. Harry Binswanger (73 sessions)
