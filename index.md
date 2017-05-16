@@ -29,6 +29,7 @@ Here is what we have planned:
   Chapter 6 (Judicial Review &mdash; The Reigning Accounts’ Failure) of
   the book [Judicial Review in an Objective Legal System][book]
   by Dr. Tara Smith
+* Monday May 29: NO SESSION (Memorial Day)
 
 [![Judicial Review in an Objective Legal System cover][cover]{:style="margin-left:2em;max-width:25em"}][book]
 
