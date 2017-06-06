@@ -22,8 +22,7 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday May 29: NO SESSION (Memorial Day)
-* Monday June 5,
+* Monday June 12,
   8:00pm [Mountain][mtn]:
   Carl will
   continue leading discussion of
