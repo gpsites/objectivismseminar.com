@@ -22,7 +22,7 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday July 17,
+* Monday July 24,
   8:00pm [Mountain][mtn]:
   Andrew will
   continue leading discussion of
