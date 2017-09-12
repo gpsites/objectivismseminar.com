@@ -23,10 +23,10 @@ Please join the live sessions from
 Here is what we have planned:
 
 * Monday September 4: NO SESSION (US holiday)
-* Monday September 11,
+* Monday September 18,
   8:00pm [Mountain][mtn]:
   Kyle will
-  begin leading discussion of
+  continue leading discussion of
   Chapter 7 (Objective Judicial Review) of
   the book [Judicial Review in an Objective Legal System][book]
   by Dr. Tara Smith
