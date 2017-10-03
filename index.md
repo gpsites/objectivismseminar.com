@@ -22,10 +22,10 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday October 2,
+* Monday October 9,
   8:00pm [Mountain][mtn]:
   Carl (and maybe occasionally Greg) will
-  begin leading discussion of
+  continue leading discussion of
   Chapter 8 (Proper Review in Contemporary Conditions) of
   the book [Judicial Review in an Objective Legal System][book]
   by Dr. Tara Smith
