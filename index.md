@@ -25,7 +25,7 @@ Here is what we have planned:
 * Monday October 16,
   8:00pm [Mountain][mtn]:
   we will have a roundtable discussion of
-  Dr. Tara Smith's [Arkansas Law Review][http://media.law.uark.edu/arklawreview/] article, 
+  Dr. Tara Smith's [Arkansas Law Review](http://media.law.uark.edu/arklawreview/) article, 
   ["What Good Is Religious Freedom? Locke, Rand, and the Non-Religious Case for Respecting It"][article1]
 
 [![Dr Smith headshot][headshot]{:style="margin-left:2em;max-width:25em"}][article1]
