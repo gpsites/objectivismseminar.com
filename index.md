@@ -22,9 +22,9 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday October 16,
+* Monday October 23,
   8:00pm [Mountain][mtn]:
-  we will have a roundtable discussion of
+  we will continue our roundtable discussion of
   Dr. Tara Smith's [Arkansas Law Review](http://media.law.uark.edu/arklawreview/) article, 
   ["What Good Is Religious Freedom? Locke, Rand, and the Non-Religious Case for Respecting It"][article1]
 
