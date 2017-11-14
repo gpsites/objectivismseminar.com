@@ -25,16 +25,15 @@ Here is what we have planned:
 * Monday November 13,
   8:00pm [Mountain][mtn]:
   we will continue our roundtable discussion of
-  Dr. Tara Smith's [Arkansas Law Review](http://media.law.uark.edu/arklawreview/) article, 
-  ["What Good Is Religious Freedom? Locke, Rand, and the Non-Religious Case for Respecting It"][article1]
+  Dr. Tara Smith's *Journal of Law and Politics* article, 
+  ["Religious Liberty or Religious License? Legal Schizophrenia and the Case against Exemptions"][article]
 
-[![Dr Smith headshot][headshot]{:style="margin-left:2em;max-width:25em"}][article1]
+[![Dr Smith headshot][headshot]{:style="margin-left:2em;max-width:25em"}][article]
 <!-- [![Judicial Review in an Objective Legal System cover][cover]{:style="margin-left:2em;max-width:25em"}][book] -->
 
 
 [cover]:    https://images-na.ssl-images-amazon.com/images/I/410dGRxeleL.jpg
 [headshot]: https://ari.aynrand.org/-/media/images/ari/experts/affiliate/regular-resolution/smith_tara2011260x260gs.ashx?h=260&la=en&mh=260&mw=260&w=260&hash=C3B7704DA9CFAF912F55FDAC7C6D50455D3760D3
 [book]:     http://amzn.com/110753495X
-[article1]: http://media.law.uark.edu/arklawreview/2017/03/09/what-good-is-religious-freedom-locke-rand-and-the-non-religious-case-for-respecting-it/
-[article2]: http://media.law.uark.edu/arklawreview/2017/03/09/what-good-is-religious-freedom-locke-rand-and-the-non-religious-case-for-respecting-it/
+[article]:  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2957783
 [mtn]:      http://wwp.greenwichmeantime.com/time-zone/usa/mountain-time/
