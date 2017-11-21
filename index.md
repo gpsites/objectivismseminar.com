@@ -22,7 +22,7 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday November 13,
+* Monday November 27,
   8:00pm [Mountain][mtn]:
   we will continue our roundtable discussion of
   Dr. Tara Smith's *Journal of Law and Politics* article, 
