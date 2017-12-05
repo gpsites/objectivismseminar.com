@@ -24,16 +24,11 @@ Here is what we have planned:
 
 * Monday December 4,
   8:00pm [Mountain][mtn]:
-  we will continue our roundtable discussion of
-  Dr. Tara Smith's *Journal of Law and Politics* article, 
-  ["Religious Liberty or Religious License? Legal Schizophrenia and the Case against Exemptions"][article]
+  Greg will begin 
+  leading our discussion of Alex Epstein's book, [The Moral Case for Fossil Fuels][book]
 
-[![Dr Smith headshot][headshot]{:style="margin-left:2em;max-width:25em"}][article]
-<!-- [![Judicial Review in an Objective Legal System cover][cover]{:style="margin-left:2em;max-width:25em"}][book] -->
+[![The Moral Case][cover]{:style="margin-left:2em;max-width:25em"}][book]
 
-
-[cover]:    https://images-na.ssl-images-amazon.com/images/I/410dGRxeleL.jpg
-[headshot]: https://ari.aynrand.org/-/media/images/ari/experts/affiliate/regular-resolution/smith_tara2011260x260gs.ashx?h=260&la=en&mh=260&mw=260&w=260&hash=C3B7704DA9CFAF912F55FDAC7C6D50455D3760D3
-[book]:     http://amzn.com/110753495X
-[article]:  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2957783
+[cover]:    https://images-na.ssl-images-amazon.com/images/I/51VGq3papCL._AA300_.jpg
+[book]:     http://amzn.to/2kqwt6I
 [mtn]:      http://wwp.greenwichmeantime.com/time-zone/usa/mountain-time/
