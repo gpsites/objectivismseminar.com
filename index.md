@@ -25,7 +25,9 @@ Here is what we have planned:
 * Monday December 11,
   8:00pm [Mountain][mtn]:
   Greg will begin 
-  leading our discussion of Alex Epstein's book, [The Moral Case for Fossil Fuels][book]
+  leading our discussion of 
+  Chapter 1 (The Secret History of Fossil Fuels)
+  in Alex Epstein's book, [The Moral Case for Fossil Fuels][book]
 
 [![The Moral Case][cover]{:style="margin-left:2em;max-width:25em"}][book]
 
