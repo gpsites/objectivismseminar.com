@@ -22,11 +22,11 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday December 11,
+* Monday December 18,
   8:00pm [Mountain][mtn]:
-  Greg will begin 
+  Andrew will begin 
   leading our discussion of 
-  Chapter 1 (The Secret History of Fossil Fuels)
+  Chapter 2 (The Secret History of Fossil Fuels)
   in Alex Epstein's book, [The Moral Case for Fossil Fuels][book]
 
 [![The Moral Case][cover]{:style="margin-left:2em;max-width:25em"}][book]
