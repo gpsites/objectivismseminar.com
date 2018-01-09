@@ -24,7 +24,7 @@ Here is what we have planned:
 
 * Monday January 15,
   8:00pm [Mountain][mtn]:
-  Greg will begin 
+  Greg will continue 
   leading our discussion of 
   Chapter 3 (The Greatest Energy Technology of All Time)
   in Alex Epstein's book, [The Moral Case for Fossil Fuels][book]
