@@ -12,11 +12,11 @@ Greg Perkins
 ------------
 <img style="float: right; margin-left: 5px; margin-right: 5px;" src="/assets/images/greg-selfie-headshot.jpg" alt="Greg Perkins" width="120" height="160" />
 Greg is a software engineer and entrepeneur living in Boise, Idaho.
-He has studied Objectivism for more than two decades, with some writing and speaking along the way.
+He has studied Objectivism for more than two and a half decades, with some writing and speaking along the way.
 Greg created and manages <a href="/">The Objectivism Seminar</a>
 and <a href="http://www.objectivistanswers.com/">Objectivist Answers</a>,
 and was the co-host of Dr. Diana Hsieh's
-<a href="http://www.philosophyinaction.com/live/">Philosophy in Action</a> Q&amp;A radio show.
+<a href="http://www.philosophyinaction.com/podcasts/">Philosophy in Action</a> Q&amp;A radio show for nearly five years.
 He also plays jazz saxophone professionally in groups such as <a href="http://boisesidemen.com/">The Sidemen</a>
 and <a href="http://www.kevinkirk.net/">Onomatopoeia</a>,
 and enjoys CrossFit, mountain biking, and snowboarding with his wife Tammy.
