@@ -22,9 +22,9 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday January 22,
+* Monday January 29,
   8:00pm [Mountain][mtn]:
-  Carl will begin 
+  Carl will continue 
   leading our discussion of 
   Chapter 4 (The Greenhouse Effect and the Fertilizer Effect)
   in Alex Epstein's book, [The Moral Case for Fossil Fuels][book]
