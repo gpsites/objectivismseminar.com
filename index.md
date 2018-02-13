@@ -24,9 +24,9 @@ Here is what we have planned:
 
 * Monday February 12,
   8:00pm [Mountain][mtn]:
-  Greg will begin 
+  Andrew will begin 
   leading our discussion of 
-  Chapter 5 (The Energy Effect and Climate Mastery)
+  Chapter 6 (Improving Our Environment)
   in Alex Epstein's book, [The Moral Case for Fossil Fuels][book]
 
 [![The Moral Case][cover]{:style="margin-left:2em;max-width:25em"}][book]
