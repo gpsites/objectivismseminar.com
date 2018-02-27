@@ -22,9 +22,9 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday February 26,
+* Monday March 5,
   8:00pm [Mountain][mtn]:
-  Carl will begin 
+  Carl will continue 
   leading our discussion of 
   Chapter 7 (Reducing Risks and Side Effects)
   in Alex Epstein's book, [The Moral Case for Fossil Fuels][book]
