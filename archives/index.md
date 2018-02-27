@@ -7,8 +7,9 @@ tab: archives
 Recordings of All Past Sessions
 -------------------------------
 
-The player below will let you listen to every past session of The Objectivism
-Seminar. You can also subscribe to all podcasts in iTunes, etc., at <a
+The player below will let you listen to past sessions of The Objectivism
+Seminar (hosted on TalkShoe's servers). 
+You can also subscribe to all podcasts in iTunes, etc., at <a
 href="http://www.talkshoe.com/talkshoe/web/tscmd/tc/15215">our TalkShoe
 page</a>.
 
@@ -21,9 +22,13 @@ page</a>.
     </object>
 </center>
 
-Also, a complete listing of the sessions with topic descriptions and links to the
-downloadable audio files is available here on <a href="/archives/full.html">this
-page</a>. Finally, access to all past *chat sessions* is available <a
+Also, a listing of past sessions with topic descriptions and links to the
+downloadable audio files (hosted on our own servers) is available here 
+on <a href="/archives/full.html">this page</a>. 
+
+&nbsp;
+
+Finally, access to all past *chat sessions* is available <a
 href="http://www.talkshoesupport.com/chatfetcher/index.php">on the TalkShoe
 site</a> (show id 15215).
 
@@ -31,7 +36,9 @@ site</a> (show id 15215).
 
 A Brief History of the Seminar's Study
 --------------------------------------
-* [_Judicial Review in an Objective Legal System_](http://amzn.com/110753495X) by Dr. Tara Smith (ongoing)
+* [_The Moral Case for Fossil Fuels_](http://amzn.to/2kqwt6I) by Alex Epstein (ongoing)
+
+* [_Judicial Review in an Objective Legal System_](http://amzn.com/110753495X) by Dr. Tara Smith (33 sessions)
 
 * [_Equal Is Unfair: America's Misguided Fight Against Income Inequality_](http://amzn.com/B015CKO1DY) by Don Watkins and Yaron Brook (28 sessions)
 

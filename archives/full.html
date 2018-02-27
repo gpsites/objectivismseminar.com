@@ -22,6 +22,11 @@
     <link rel="icon" href="/assets/images/atlas-favicon.jpg" type="image/x-icon" />
     <script src="https://vuejs.org/js/vue.min.js"></script>
     <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <style>
+        .failing {
+            color: red;
+        }
+    </style>
 </head>
 
 <body>
@@ -46,25 +51,19 @@
             <div id="content">
 
                 <div id="left">
-                    <h1>All Previous TalkShoe Sessions</h1>
+                    <h1>OA-Hosted Session Archive</h1>
                     <p>&nbsp;</p>
-                    <div v-if="sessions.length">
-                      <input v-model="filter" placeholder="type to filter"> (showing {{filteredSessions.length}} of {{sessions.length}})
-                    </div>
-                    <div v-else>
-                      loading data...
-                    </div>
+                    <input v-model="filter" placeholder="type to filter"> (showing {{filteredSessions.length}} of {{sessions.length}})
                     <p>&nbsp;</p>
                     <div id="rssSummaryList110" class="rssSummaryList" v-for="session in filteredSessions" :key="session.link">
 
                         <div class="rssItem">
                             <div class="rssItemTitle">
-                              <a :href="session.link" target="_blank">{{session.title}}</a>
+                              <a :href="session.link || linkFind(session.title)" :class="{failing: !session.link}"  target="_blank">{{session.title}}</a>
                             </div>
                             <div class="rssItemDate">{{session.pubDate | formatDate}}</div>
                             <div class="rssItemSummary">{{session.description}}</div>
                         </div>
-
 
                     </div>
                 </div>
@@ -117,6 +116,7 @@ Vue.filter('formatDate', function (date) {
 var app = new Vue({
   el: '#left',
   data: {
+    talkShoeSessions: [],
     sessions: [],
     filter: ''
   },
@@ -127,13 +127,30 @@ var app = new Vue({
         return (session.title + session.description).toLowerCase().indexOf(lcFilter) >= 0
       })
     }
+  },
+  methods: {
+      linkFind: function (title) {
+          title = title.replace('MISSING: ', '')
+          let x = this.talkShoeSessions.find(x => x.title === title)
+          return x && x.link
+      }
   }
 })
 
+$.getJSON("sessions.json", function(json) {
+  let fails = 0;
+  json.forEach(function (x) {
+    x.pubDate = new Date(x.pubDate)
+    if (!x.link) x.title = 'MISSING: ' + x.title
+  })
+  app.sessions = json
+});
+
 $.get('http://crossorigin.me/http://recordings.talkshoe.com/rss15215.xml', function (data) {
+  console.log('received talkshoe info');
   $(data).find('item').each(function () {
     var $el = $(this)
-    app.sessions.push({
+    app.talkShoeSessions.push({
       title: $el.find('title').text(),
       link: $el.find('link').text(),
       pubDate: new Date($el.find('pubDate').text()),
