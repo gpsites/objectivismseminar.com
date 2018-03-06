@@ -59,7 +59,7 @@
 
                         <div class="rssItem">
                             <div class="rssItemTitle">
-                              <a :href="session.link || linkFind(session.title)" :class="{failing: !session.link}"  target="_blank">{{session.title}}</a>
+                              <a :href="session.link || linkFallback(session.title)" :class="{failing: !session.link}"  target="_blank">{{session.title}}</a>
                             </div>
                             <div class="rssItemDate">{{session.pubDate | formatDate}}</div>
                             <div class="rssItemSummary">{{session.description}}</div>
@@ -129,8 +129,7 @@ var app = new Vue({
     }
   },
   methods: {
-      linkFind: function (title) {
-          title = title.replace('MISSING: ', '')
+      linkFallback: function (title) {
           let x = this.talkShoeSessions.find(x => x.title === title)
           return x && x.link
       }
@@ -141,22 +140,25 @@ $.getJSON("sessions.json", function(json) {
   let fails = 0;
   json.forEach(function (x) {
     x.pubDate = new Date(x.pubDate)
-    if (!x.link) x.title = 'MISSING: ' + x.title
   })
   app.sessions = json
 });
 
 $.get('http://crossorigin.me/http://recordings.talkshoe.com/rss15215.xml', function (data) {
-  console.log('received talkshoe info');
   $(data).find('item').each(function () {
     var $el = $(this)
-    app.talkShoeSessions.push({
+    var item = {
       title: $el.find('title').text(),
       link: $el.find('link').text(),
       pubDate: new Date($el.find('pubDate').text()),
       description: $el.find('description').text()
-    })
+    }
+    app.talkShoeSessions.push(item)
+    if (!app.sessions.find(function (x) { return x.title === item.title})) {
+        console.log('not yet archived on our servers:', item);
+    }
   })
+  console.log('received talkshoe info', app.talkShoeSessions);
 })
 </script>
 </html>
