@@ -22,9 +22,9 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday March 26,
+* Monday April 2,
   8:00pm [Mountain][mtn]:
-  Kyle will begin 
+  Greg will begin 
   leading our discussion of 
   Chapter 8 (Fossil Fuels, Sustainability, and the Future)
   in Alex Epstein's book, [The Moral Case for Fossil Fuels][book]
