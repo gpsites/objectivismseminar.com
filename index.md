@@ -22,15 +22,15 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday April 2,
+* Monday April 9,
   8:00pm [Mountain][mtn]:
-  Greg will begin 
+  Carl will begin 
   leading our discussion of 
-  Chapter 8 (Fossil Fuels, Sustainability, and the Future)
-  in Alex Epstein's book, [The Moral Case for Fossil Fuels][book]
+  Chapter 1 (Dare to Understand!)
+  in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
 
-[![The Moral Case][cover]{:style="margin-left:2em;max-width:25em"}][book]
+[![Enlightenment Now][cover]{:style="margin-left:2em;max-width:25em"}][book]
 
-[cover]:    https://images-na.ssl-images-amazon.com/images/I/51VGq3papCL._AA300_.jpg
-[book]:     http://amzn.to/2kqwt6I
+[cover]:    https://images-na.ssl-images-amazon.com/images/I/51Z212TCk%2BL._SX327_BO1,204,203,200_.jpg
+[book]:     https://amzn.to/2H6TwL5
 [mtn]:      http://wwp.greenwichmeantime.com/time-zone/usa/mountain-time/
