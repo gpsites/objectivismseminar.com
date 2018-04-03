@@ -23,8 +23,8 @@ page</a>.
 </center>
 
 Also, a listing of past sessions with topic descriptions and links to the
-downloadable audio files (hosted on our own servers) is available here 
-on <a href="/archives/full.html">this page</a>. 
+downloadable audio files (hosted on our own servers) is available
+<a href="/archives/full.html"><b>here on this page</b></a>. 
 
 &nbsp;
 
@@ -36,7 +36,9 @@ site</a> (show id 15215).
 
 A Brief History of the Seminar's Study
 --------------------------------------
-* [_The Moral Case for Fossil Fuels_](http://amzn.to/2kqwt6I) by Alex Epstein (ongoing)
+* [_Enlightenment Now: The Case for Reason, Science, Humanism, and Progress_](https://amzn.to/2H6TwL5) by Steven Pinker (ongoing)
+
+* [_The Moral Case for Fossil Fuels_](http://amzn.to/2kqwt6I) by Alex Epstein (15 sessions)
 
 * [_Judicial Review in an Objective Legal System_](http://amzn.com/110753495X) by Dr. Tara Smith (33 sessions)
 
