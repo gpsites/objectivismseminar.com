@@ -24,7 +24,7 @@ Here is what we have planned:
 
 * Monday April 9,
   8:00pm [Mountain][mtn]:
-  Kyle will begin 
+  Carl will begin 
   leading our discussion of 
   Chapter 1 (Dare to Understand!)
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
