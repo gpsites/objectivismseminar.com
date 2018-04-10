@@ -22,9 +22,9 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday April 9,
+* Monday April 16,
   8:00pm [Mountain][mtn]:
-  Carl will begin 
+  Carl will continue 
   leading our discussion of 
   Chapter 1 (Dare to Understand!)
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
