@@ -24,7 +24,7 @@ Here is what we have planned:
 
 * Monday April 30,
   8:00pm [Mountain][mtn]:
-  Andrew will continue 
+  Andrew will begin 
   leading our discussion of 
   Chapter 2 (Entro, Evo, Info)
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
