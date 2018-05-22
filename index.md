@@ -22,6 +22,7 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
+* Monday May 28: NO SESSION (holiday)
 * Monday June 4,
   8:00pm [Mountain][mtn]:
   Greg will begin 
