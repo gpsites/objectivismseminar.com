@@ -22,9 +22,9 @@ Please join the live sessions from
 [**our TalkShoe Page**](http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=15215&amp;cmd=tc "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday July 16,
+* Monday July 23,
   8:00pm [Mountain][mtn]:
-  Kyle will (really) begin 
+  Kyle will continue 
   leading our discussion of 
   Chapter 8 (Wealth)
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
