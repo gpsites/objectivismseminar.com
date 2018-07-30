@@ -6,11 +6,11 @@ tab: communication
 
 Conference Calling Facility
 ---------------------------
-<a href="http://www.talkshoe.com/tc/15215">TalkShoe</a> is the facility we use for making our weekly online conference calls, as well as for accessing and subscribing to the recorded sessions as podcasts.
+<a href="https://www.talkshoe.com/conf/show/the-objectivism-seminar">TalkShoe</a> is the facility we use for making our weekly online conference calls, as well as for accessing and subscribing to the recorded sessions as podcasts.
 
 You can join the sessions live using your landline or cellphone, the web, or using various VoIP technologies like TalkShoe's own free ShoePhone. Please see <a href="/faq/">our FAQ page</a> for more information on how to quickly set yourself up to join in the sessions!
 
-<a style="margin-left: 2em;" href="http://www.talkshoe.com/talkshoe/web/tscmd/tc/15215"><img src="http://www.talkshoe.com/resources/talkshoe/images/badges/static/badgeStatic0307011.gif" alt="Powered by TalkShoe" border="0" /></a>
+<a style="margin-left: 2em;" href="https://www.talkshoe.com/conf/show/the-objectivism-seminar"><img src="http://www.talkshoe.com/resources/talkshoe/images/badges/static/badgeStatic0307011.gif" alt="Powered by TalkShoe" border="0" /></a>
 
 &nbsp;
 
