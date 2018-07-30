@@ -71,8 +71,8 @@ the sessions. To set yourself up, just follow these steps:
     * If you want to talk but don't like using the ShoePhone, you can also call in on a regular phone (toll charges may apply) while using either of the above -- just look for the number+ID on the call page and dial in!
 
 1. Now you're ready! When it is time for the meeting, just go to the TOS call
-page at <a href="http://www.talkshoe.com/tc/15215"
-target="_blank">www.talkshoe.com/tc/15215</a>, and join in.
+page at <a href="https://www.talkshoe.com/conf/show/the-objectivism-seminar"
+target="_blank">https://www.talkshoe.com/conf/show/the-objectivism-seminar</a>, and join in.
 
 What will the structure of the sessions be like?
 ---------------------------------------------------
