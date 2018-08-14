@@ -22,9 +22,9 @@ Please join the live sessions from
 [**our TalkShoe Page**](https://www.talkshoe.com/conf/show/the-objectivism-seminar "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday August 13,
+* Monday August 20,
   8:00pm [Mountain][mtn]:
-  Andrew will begin 
+  Andrew will continue 
   leading our discussion of 
   Chapter 9 (Inequality)
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
