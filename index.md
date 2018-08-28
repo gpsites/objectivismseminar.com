@@ -22,11 +22,11 @@ Please join the live sessions from
 [**our TalkShoe Page**](https://www.talkshoe.com/conf/show/the-objectivism-seminar "The Objectivism Seminar at TalkShoe.com")!
 Here is what we have planned:
 
-* Monday August 27,
+* Monday September 10,
   8:00pm [Mountain][mtn]:
-  Andrew will continue 
+  Greg will begin 
   leading our discussion of 
-  Chapter 9 (Inequality)
+  Chapter 10 (The Environment)
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
 
 [![Enlightenment Now][cover]{:style="margin-left:2em;max-width:25em"}][book]
