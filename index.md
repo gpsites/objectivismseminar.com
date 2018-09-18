@@ -26,7 +26,7 @@ Here is what we have planned:
   8:00pm [Mountain][mtn]:
   Greg will continue 
   leading our discussion of 
-  Chapter 10 (The Environment)
+  Chapter 10 (The Environment), ~p136
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
 
 [![Enlightenment Now][cover]{:style="margin-left:2em;max-width:25em"}][book]
