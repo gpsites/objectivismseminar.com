@@ -7,30 +7,9 @@ tab: archives
 Recordings of All Past Sessions
 -------------------------------
 
-The player below will let you listen to past sessions of The Objectivism
-Seminar (hosted on TalkShoe's servers). 
-You can also subscribe to all podcasts in iTunes, etc., at <a
-href="http://www.talkshoe.com/talkshoe/web/tscmd/tc/15215">our TalkShoe
-page</a>.
-
-<center markdown="0">
-    <object width="300" height="150" data="http://www.talkshoe.com/badges/badgeSm300.swf?domainId=api.talkshoe.com&masterId=15215&colorId=gray" id="W46e01640976f216c" allowScriptAccess="always" allowNetworking="all" pluginspage="http://www.macromedia.com/go/getflashplayer"
-        type="application/x-shockwave-flash">
-        <param name="wmode" value="transparent" />
-        <param name="movie" value="http://www.talkshoe.com/badges/badgeSm300.swf?domainId=api.talkshoe.com&masterId=15215&colorId=gray" />
-        <param name="allowScriptAccess" value="always" />
-    </object>
-</center>
-
-Also, a listing of past sessions with topic descriptions and links to the
+A listing of past sessions with topic descriptions and links to the
 downloadable audio files (hosted on our own servers) is available
 <a href="/archives/full.html"><b>here on this page</b></a>. 
-
-&nbsp;
-
-Finally, access to all past *chat sessions* is available <a
-href="http://www.talkshoesupport.com/chatfetcher/index.php">on the TalkShoe
-site</a> (show id 15215).
 
 &nbsp;
 
