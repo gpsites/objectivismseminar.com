@@ -144,7 +144,7 @@ $.getJSON("sessions.json", function(json) {
   app.sessions = json
 });
 
-$.get('http://crossorigin.me/http://recordings.talkshoe.com/rss15215.xml', function (data) {
+$.get('https://crossorigin.me/https://recordings.talkshoe.com/rss15215.xml', function (data) {
   $(data).find('item').each(function () {
     var $el = $(this)
     var item = {
