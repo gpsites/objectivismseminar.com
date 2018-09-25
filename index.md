@@ -19,14 +19,14 @@ to learn more about what the Seminar is, how it works, and how to participate!
 Upcoming Session Schedule
 -------------------------
 Please join the live sessions from
-[**our TalkShoe Page**](https://www.talkshoe.com/conf/show/the-objectivism-seminar "The Objectivism Seminar at TalkShoe.com")!
+[**our FreeConferenceCall.com Page**](https://www.freeconferencecall.com/join/objectivismseminar "The Objectivism Seminar at FreeConferenceCall.com")!
 Here is what we have planned:
 
-* Monday September 24,
+* Monday October 1,
   8:00pm [Mountain][mtn]:
   Greg will continue 
   leading our discussion of 
-  Chapter 10 (The Environment), ~p136
+  Chapter 10 (The Environment), ~p142
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
 
 [![Enlightenment Now][cover]{:style="margin-left:2em;max-width:25em"}][book]
