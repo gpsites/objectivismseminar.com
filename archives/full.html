@@ -143,22 +143,5 @@ $.getJSON("sessions.json", function(json) {
   })
   app.sessions = json
 });
-
-$.get('https://crossorigin.me/https://recordings.talkshoe.com/rss15215.xml', function (data) {
-  $(data).find('item').each(function () {
-    var $el = $(this)
-    var item = {
-      title: $el.find('title').text(),
-      link: $el.find('link').text(),
-      pubDate: new Date($el.find('pubDate').text()),
-      description: $el.find('description').text()
-    }
-    app.talkShoeSessions.push(item)
-    if (!app.sessions.find(function (x) { return x.title === item.title})) {
-        console.log('not yet archived on our servers:', item);
-    }
-  })
-  console.log('received talkshoe info', app.talkShoeSessions);
-})
 </script>
 </html>
