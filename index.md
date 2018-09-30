@@ -19,7 +19,7 @@ to learn more about what the Seminar is, how it works, and how to participate!
 Upcoming Session Schedule
 -------------------------
 Please join the live sessions from
-[**our FreeConferenceCall.com Page**](https://www.freeconferencecall.com/join/objectivismseminar "The Objectivism Seminar at FreeConferenceCall.com")!
+[**our FreeConferenceCall.com Page**](https://www.freeconferencecall.com/join/objectivismseminar "The Objectivism Seminar at FreeConferenceCall.com") (or catch up later via [their RSS feed for us](https://www.freeconferencecall.com/rss/podcast?id=2dd4f6a755aa45d0e05e72cc2367b2611992a141827eb6addeed79c5baf445fe_292812442))!
 Here is what we have planned:
 
 * Monday October 1,
