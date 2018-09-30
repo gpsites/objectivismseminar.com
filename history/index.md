@@ -1,17 +1,8 @@
 ---
-title: Archives - The Objectivism Seminar
+title: History - The Objectivism Seminar
 layout: default
-tab: archives
+tab: history
 ---
-
-Recordings of All Past Sessions
--------------------------------
-
-A listing of past sessions with topic descriptions and links to the
-downloadable audio files (hosted on our own servers) is available
-<a href="/archives/full.html"><b>here on this page</b></a>. 
-
-&nbsp;
 
 A Brief History of the Seminar's Study
 --------------------------------------

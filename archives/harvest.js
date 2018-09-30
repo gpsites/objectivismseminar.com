@@ -1,5 +1,6 @@
 const feedUrl = 'https://www.freeconferencecall.com/rss/podcast?id=2dd4f6a755aa45d0e05e72cc2367b2611992a141827eb6addeed79c5baf445fe_292812442';
 const sessionsFilename = 'sessions.json';
+const feedFilename = 'rss.xml';
 const downloadsDirName = 'downloads';
 const bucketPrefix = 'https://oapodcasts.s3.amazonaws.com/';
 
@@ -9,7 +10,7 @@ const promisify = require('util').promisify;
 const parseXmlString = require('xml2js').parseString;
 const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);
-const Feed = require('feed').Feed;
+const Podcast = require('podcast');
 
 const safeFilename = str => str.replace(':', '_');
 
@@ -76,59 +77,26 @@ const download = promisify(callbackDownload);
 
 
 const buildFeed = sessions => {
-  const feed = new Feed({
+  const feed = new Podcast({
     title: "The Objectivism Seminar",
     description: "A weekly online conference call to systematically study the philosophy of Objectivism via the works of prominent Rand scholars.",
-    id: "https://www.objectivismseminar.com/",
-    link: "https://www.objectivismseminar.com/",
-    image: "https://www.objectivismseminar.com/assets/images/atlas.jpg",
-    favicon: "https://www.objectivismseminar.com/assets/images/atlas-favicon.jpg",
-    copyright: "All rights reserved, Greg Perkins",
-    feedLinks: {
-      rss: "https://www.objectivismseminar.com/archives/rss",
-      json: "https://www.objectivismseminar.com/archives/json",
-      atom: "https://www.objectivismseminar.com/archives/atom"
-    },
-    author: {
-      name: "The Objectivism Seminar",
-      email: "admin@objectivismseminar.com",
-      link: "https://objectivismseminar.com"
-    }
+    feedUrl: "https://www.objectivismseminar.com/archives/rss",
+    siteUrl: "https://www.objectivismseminar.com/",
+    imageUrl: "https://www.objectivismseminar.com/assets/images/atlas.jpg",
+    author: "Greg Perkins, creator of The Objectivism Seminar",
+    pubDate: new Date(),
   });
 
   sessions.forEach(session => {
     feed.addItem({
       title: session.title,
-      id: session.url,
-      link: session.url,
       description: session.description,
-      content: session.content,
-      author: [
-        {
-          name: "Jane Doe",
-          email: "janedoe@example.com",
-          link: "https://example.com/janedoe"
-        },
-        {
-          name: "Joe Smith",
-          email: "joesmith@example.com",
-          link: "https://example.com/joesmith"
-        }
-      ],
-      contributor: [
-        {
-          name: "Shawn Kemp",
-          email: "shawnkemp@example.com",
-          link: "https://example.com/shawnkemp"
-        },
-        {
-          name: "Reggie Miller",
-          email: "reggiemiller@example.com",
-          link: "https://example.com/reggiemiller"
-        }
-      ],
-      date: session.date,
-      image: session.image
+      url: session.link,
+      guid: session.link,
+      date: session.pubDate,
+      enclosure: {
+        url: session.link,
+      }
     });
   });
 
@@ -146,17 +114,19 @@ try {
 async function main() {
   const [feedItems, sessionData] = await Promise.all([fetchFeedItems(feedUrl), readFile(sessionsFilename)]);
   const sessions = JSON.parse(sessionData);
+  for (const session of sessions) {
+    session.pubDate = new Date(session.pubDate);
+  }
 
   var newItems = []
   for (const item of feedItems) {
-    if (!sessions.find(x => x.title === item.title)) {
+    if (!sessions.find(x => x.link === item.link)) {
       newItems.push(item);
     }
   }
 
   if (!newItems.length) {
     console.log('no new sessions');
-    return;
   }
 
   if (!fs.existsSync(downloadsDirName)) {
@@ -173,14 +143,10 @@ async function main() {
   }
 
   const updatedSessions = [...newItems, ...sessions];
-  await writeFile(sessionsFilename, JSON.stringify(updatedSessions, null, 2));
 
   const feed = buildFeed(updatedSessions);
-  // console.log(feed.rss2());
-  // Output: RSS 2.0
-  // console.log(feed.atom1());
-  // Output: Atom 1.0
-  // console.log(feed.json1());
-  // Output: JSON Feed 1.0
+
+  await Promise.all([writeFile(sessionsFilename, JSON.stringify(updatedSessions, null, 2)), writeFile(feedFilename, feed.buildXml())]);
+  console.log('wrote sessions.json and rss feed files')
 }
 

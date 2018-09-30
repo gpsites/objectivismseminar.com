@@ -11,6 +11,16 @@
     <style type="text/css">
         @import "/assets/css/typography.css";
     </style>
+    <style>
+        .feedbox {
+            position: relative;
+            top:10px;
+            padding-bottom:30px;
+            padding-left:20px;
+        }
+        .feedbox::hover {
+        }
+    </style>
 
 
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -38,12 +48,12 @@
                 <h2><a href="/" title="Back to main page">The Objectivism Seminar</a></h2>
                 <div id="menu">
                     <ul class="nav-header">
-                        <li class=" first"><a href="/">Home</a></li>
-                        <li class=" "><a href="/communication/">Communication</a></li>
-                        <li class="nav-selected "><a href="/archives/">Archives</a></li>
-                        <li class=" "><a href="/faq/">FAQ</a></li>
-                        <li class=" "><a href="/people/">People</a></li>
-                        <li class=" "><a href="/about/">About</a></li>
+                        <li class=""><a href="/">Home</a></li>
+                        <li class=""><a href="/communication/">Communication</a></li>
+                        <li class=""><a href="/history/">History</a></li>
+                        <li><a class="nav-selected first" href="/archives/">Archives</a></li>
+                        <li class=""><a href="/faq/">FAQ</a></li>
+                        <li class=""><a href="/about/">About</a></li>
                     </ul>
                     <div class="ccm-spacer">&nbsp;</div>
                 </div>
@@ -51,15 +61,19 @@
             <div id="content">
 
                 <div id="left">
-                    <h1>OA-Hosted Session Archive</h1>
-                    <p>&nbsp;</p>
+                    <h1>Subscribe to the RSS Feed</h1>
+                    <div class="feedbox">
+                        <a href="rss.xml" title="subscribe to this feed"><img src="/assets/images/podcast-icon.jpg" width="50" /></a>
+                    </div>
+                    <h1>Browse the Sessions</h1>
                     <input v-model="filter" placeholder="type to filter"> (showing {{filteredSessions.length}} of {{sessions.length}})
-                    <p>&nbsp;</p>
+                    <br />
+                    <br />
                     <div id="rssSummaryList110" class="rssSummaryList" v-for="session in filteredSessions" :key="session.link">
 
                         <div class="rssItem">
                             <div class="rssItemTitle">
-                              <a :href="session.link || linkFallback(session.title)" :class="{failing: !session.link}"  target="_blank">{{session.title}}</a>
+                              <a :href="session.link" :class="{failing: !session.link}"  target="_blank">{{session.title}}</a>
                             </div>
                             <div class="rssItemDate">{{session.pubDate | formatDate}}</div>
                             <div class="rssItemSummary">{{session.description}}</div>
@@ -78,11 +92,11 @@
                     <div class="box">
                         <div class="boxInner">
                             <ul class="nav">
-                                <li class="nav-path-selected"><a class="nav-path-selected" href="/">Home</a></li>
+                                <li><a href="/">Home</a></li>
                                 <li><a href="/communication/">Communication</a></li>
-                                <li class="nav-path-selected"><a class="nav-path-selected" href="/archives/">Archives</a></li>
+                                <li><a href="/history/">History</a></li>
+                                <li><a href="/archives/">Archives</a></li>
                                 <li><a href="/faq/">FAQ</a></li>
-                                <li><a href="/people/">People</a></li>
                                 <li><a href="/about/">About</a></li>
                             </ul>
                         </div>
@@ -116,7 +130,6 @@ Vue.filter('formatDate', function (date) {
 var app = new Vue({
   el: '#left',
   data: {
-    talkShoeSessions: [],
     sessions: [],
     filter: ''
   },
@@ -129,10 +142,6 @@ var app = new Vue({
     }
   },
   methods: {
-      linkFallback: function (title) {
-          let x = this.talkShoeSessions.find(x => x.title === title)
-          return x && x.link
-      }
   }
 })
 
