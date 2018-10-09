@@ -22,11 +22,12 @@ Please join the live sessions from
 [**our FreeConferenceCall.com Page**](https://www.freeconferencecall.com/join/objectivismseminar "The Objectivism Seminar at FreeConferenceCall.com") (or catch up later via [their RSS feed for us](https://www.freeconferencecall.com/rss/podcast?id=2dd4f6a755aa45d0e05e72cc2367b2611992a141827eb6addeed79c5baf445fe_292812442))!
 Here is what we have planned:
 
-* Monday October 8,
+* Monday October 15,
   8:00pm [Mountain][mtn]:
-  Carl will begin 
-  leading our discussion of 
-  Chapter 11 (Peace), ~p156
+  Kyle will 
+  lead discussion of 
+  Ayn Rand's essay, ["The Roots of War"](https://campus.aynrand.org/works/1966/06/01/the-roots-of-war) as a supplement to our discussion of 
+  Chapter 11 (Peace)
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
 
 [![Enlightenment Now][cover]{:style="margin-left:2em;max-width:25em"}][book]
