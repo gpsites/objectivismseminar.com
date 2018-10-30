@@ -26,7 +26,7 @@ Here is what we have planned:
   8:00pm [Mountain][mtn]:
   Greg will
   continue leading 
-  discussion of Chapter 12 (Safety)
+  discussion of Chapter 12 (Safety) ~p.176
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
 
 [![Enlightenment Now][cover]{:style="margin-left:2em;max-width:25em"}][book]
