@@ -23,11 +23,11 @@ Please join the live sessions from
 [**our FreeConferenceCall.com Page**](https://www.freeconferencecall.com/join/objectivismseminar "The Objectivism Seminar at FreeConferenceCall.com") (or catch up later via [their RSS feed for us](https://www.freeconferencecall.com/rss/podcast?id=2dd4f6a755aa45d0e05e72cc2367b2611992a141827eb6addeed79c5baf445fe_292812442))!
 Here is what we have planned:
 
-* Monday November 26,
+* Monday December 3,
   8:00pm [Mountain][mtn]:
-  Greg will
+  Carl will
   begin leading 
-  discussion of Chapter 15 (Equal Rights)
+  discussion of Chapter 16 (Knowledge)
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
 
 [![Enlightenment Now][cover]{:style="margin-left:2em;max-width:25em"}][book]
