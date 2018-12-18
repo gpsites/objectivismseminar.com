@@ -29,8 +29,8 @@ Here is what we have planned:
   begin leading 
   discussion of Chapter 17 (Quality of Life)
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
-* Monday December 31: **CANCELED** (New Years Eve)
-* Monday December 24: **CANCELED** (Christmas Eve)
+* Monday December 31: **NO SESSION** (New Years Eve)
+* Monday December 24: **NO SESSION** (Christmas Eve)
 
 [![Enlightenment Now][cover]{:style="margin-left:2em;max-width:25em"}][book]
 

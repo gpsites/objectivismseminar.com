@@ -133,6 +133,7 @@ async function main() {
     fs.mkdirSync(downloadsDirName);
   }
 
+    /*
   for (const item of newItems) {
     await download(item.sourcelink, downloadsDirName + '/' + safeFilename(item.title + '.mp3'), count => {
       process.stdout.cursorTo(0);
@@ -141,6 +142,7 @@ async function main() {
     console.log('complete');
     delete item.sourcelink;
   }
+  */
 
   const updatedSessions = [...newItems, ...sessions];
 
