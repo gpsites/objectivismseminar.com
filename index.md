@@ -23,13 +23,14 @@ Please join the live sessions from
 [**our FreeConferenceCall.com Page**](https://www.freeconferencecall.com/join/objectivismseminar "The Objectivism Seminar at FreeConferenceCall.com") (or catch up later via [their RSS feed for us](https://www.freeconferencecall.com/rss/podcast?id=2dd4f6a755aa45d0e05e72cc2367b2611992a141827eb6addeed79c5baf445fe_292812442))!
 Here is what we have planned:
 
-* Monday December 17,
+* Monday January 7,
   8:00pm [Mountain][mtn]:
-  Carl will
-  continue leading 
-  discussion of Chapter 16 (Knowledge)
+  Kyle will
+  begin leading 
+  discussion of Chapter 17 (Quality of Life)
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
-* Monday December 10: **CANCELED** (no quorum)
+* Monday December 31: **CANCELED** (New Years Eve)
+* Monday December 24: **CANCELED** (Christmas Eve)
 
 [![Enlightenment Now][cover]{:style="margin-left:2em;max-width:25em"}][book]
 
