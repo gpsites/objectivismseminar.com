@@ -22,7 +22,7 @@ const extractItems = json => {
       title: item.title.join(' '),
       // link: item.link.join(' '),
       sourcelink: item.enclosure[0].$.url,
-      link: bucketPrefix + safeFilename(item.title.join(' ') + '.mp3'),
+      link: encodeURI(bucketPrefix + safeFilename(item.title.join(' ') + '.mp3')),
       pubDate: new Date(item.pubDate.join(' ')),
       // description: item.description.join(' ')
       description: 'Please visit www.ObjectivismSeminar.com for more information.',
@@ -82,8 +82,12 @@ const buildFeed = sessions => {
     description: "A weekly online conference call to systematically study the philosophy of Objectivism via the works of prominent Rand scholars.",
     feedUrl: "https://www.objectivismseminar.com/archives/rss",
     siteUrl: "https://www.objectivismseminar.com/",
-    imageUrl: "https://www.objectivismseminar.com/assets/images/atlas.jpg",
-    author: "Greg Perkins, creator of The Objectivism Seminar",
+    imageUrl: "https://www.objectivismseminar.com/assets/images/atlas-square.jpg",
+    author: "Greg Perkins, Host",
+    itunesOwner: { name: "Greg Perkins", email: "greg@ecosmos.com" },
+    itunesExplicit: true,
+    itunesCategory: [{text: "Society & Culture", subcats: [{text: "Philosophy", subcats: []}]}],
+    language: "en",
     pubDate: new Date(),
   });
 
@@ -91,7 +95,10 @@ const buildFeed = sessions => {
     feed.addItem({
       title: session.title,
       description: session.description,
+      
       url: session.link,
+      link: session.link,
+      category: 'Philosophy',
       guid: session.link,
       date: session.pubDate,
       enclosure: {
@@ -133,7 +140,6 @@ async function main() {
     fs.mkdirSync(downloadsDirName);
   }
 
-    /*
   for (const item of newItems) {
     await download(item.sourcelink, downloadsDirName + '/' + safeFilename(item.title + '.mp3'), count => {
       process.stdout.cursorTo(0);
@@ -142,7 +148,6 @@ async function main() {
     console.log('complete');
     delete item.sourcelink;
   }
-  */
 
   const updatedSessions = [...newItems, ...sessions];
 
