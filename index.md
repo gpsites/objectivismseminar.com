@@ -17,10 +17,14 @@ to allow review, catch-up, and even disconnected participation.
 Please see our [site FAQ](/faq "Frequently Asked Questions")
 to learn more about what the Seminar is, how it works, and how to participate!
 
+<a href="https://itunes.apple.com/us/podcast/id1450447550?mt=2&ls=1" title="subscribe to this podcast in itunes" target="_blank"><img src="/assets/images/itunes-podcast-badge.svg" height="40" /></a>
+<a href="/archives/rss.xml" title="subscribe to this feed" target="_blank"><img src="/assets/images/rss-feed-badge.png" height="40" /></a>
+
 Upcoming Session Schedule
 -------------------------
 Please join the live sessions from
-[**our FreeConferenceCall.com Page**](https://www.freeconferencecall.com/join/objectivismseminar "The Objectivism Seminar at FreeConferenceCall.com") (or catch up later via [their RSS feed for us](https://www.freeconferencecall.com/rss/podcast?id=2dd4f6a755aa45d0e05e72cc2367b2611992a141827eb6addeed79c5baf445fe_292812442))!
+[**our FreeConferenceCall.com Page**](https://www.freeconferencecall.com/join/objectivismseminar "The Objectivism Seminar at FreeConferenceCall.com")
+
 Here is what we have planned:
 
 * Monday January 28,
