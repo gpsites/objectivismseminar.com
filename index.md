@@ -27,10 +27,10 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday January 28,
+* Monday February 4,
   8:00pm [Mountain][mtn]:
   Carl will
-  begin leading 
+  continue leading 
   discussion of Chapter 19 (Existential Threats)
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
 
