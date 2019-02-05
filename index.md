@@ -27,11 +27,11 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday February 4,
+* Monday February 11,
   8:00pm [Mountain][mtn]:
-  Carl will
-  continue leading 
-  discussion of Chapter 19 (Existential Threats)
+  Greg will
+  begin leading 
+  discussion of Chapter 20 (The Future of Progress)
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
 
 [![Enlightenment Now][cover]{:style="margin-left:2em;max-width:25em"}][book]
