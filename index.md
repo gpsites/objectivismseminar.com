@@ -27,13 +27,12 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday February 18,
+* Monday February 25,
   8:00pm [Mountain][mtn]:
-  Greg will
-  begin leading 
+  Carl will
+  continue leading 
   discussion of Chapter 20 (The Future of Progress)
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
-* Monday February 11: **RATHOLE SESSION** (no recording, lack of prep/quorum)
 
 [![Enlightenment Now][cover]{:style="margin-left:2em;max-width:25em"}][book]
 
