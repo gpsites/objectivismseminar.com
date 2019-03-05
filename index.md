@@ -27,10 +27,9 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday March 4, 8:00pm [Mountain][mtn]: **RATHOLE SESSION**
 * Monday March 11,
   8:00pm [Mountain][mtn]:
-  TBH will
+  Carl (really, The Panel) will
   begin leading 
   discussion of Chapter 21 (Reason)
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]

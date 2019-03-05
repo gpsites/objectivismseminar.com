@@ -12,7 +12,7 @@ const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);
 const Podcast = require('podcast');
 
-const safeFilename = str => str.replace(':', '_');
+const safeFilename = str => str.replace(/[:/]/g, '_');
 
 const extractItems = json => {
   const items = json.rss.channel[0].item;
