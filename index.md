@@ -27,7 +27,7 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday April 1,
+* Monday April 8,
   8:00pm [Mountain][mtn]:
   Carl (really, The Panel) will
   continue leading 
