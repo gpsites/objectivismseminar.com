@@ -27,10 +27,10 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday April 15,
+* Monday April 22,
   8:00pm [Mountain][mtn]:
-  The Panel) will
-  begin 
+  The Panel will
+  continue 
   discussion of Chapter 22 (Science)
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
 
