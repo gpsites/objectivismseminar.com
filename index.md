@@ -27,7 +27,7 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday April 22,
+* Monday April 29,
   8:00pm [Mountain][mtn]:
   The Panel will
   continue 
