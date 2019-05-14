@@ -27,12 +27,12 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday May 6: **NO SESSION**
-* Monday May 13,
+* Monday May 20,
   8:00pm [Mountain][mtn]:
   The Panel will
-  begin 
-  discussion of Chapter 23 (Humanism)
+  continue 
+  discussion of Chapter 23 (Humanism) 
+  at about page 415
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
 
 [![Enlightenment Now][cover]{:style="margin-left:2em;max-width:25em"}][book]
