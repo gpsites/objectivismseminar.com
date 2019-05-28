@@ -27,7 +27,8 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday May 27,
+* Monday May 27: NO SESSION (holiday, Greg being a flake)
+* Monday June 3,
   8:00pm [Mountain][mtn]:
   The Panel will
   continue 
