@@ -27,7 +27,7 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday **June 24: NO SESSION**( (OCON week)
+* Monday **June 24: NO SESSION** (OCON week)
 * Monday July 1,
   8:00pm [Mountain][mtn]:
   The Panel will
