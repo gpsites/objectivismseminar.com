@@ -27,12 +27,13 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday June 17,
+* Monday **June 24: NO SESSION**( (OCON week)
+* Monday July 1,
   8:00pm [Mountain][mtn]:
   The Panel will
-  continue 
-  discussion of Chapter 23 (Humanism) 
-  at about page 430
+  **conclude discussion** 
+  of Chapter 23 (Humanism) 
+  at about page 442
   in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
 
 [![Enlightenment Now][cover]{:style="margin-left:2em;max-width:25em"}][book]

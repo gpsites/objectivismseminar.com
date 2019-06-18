@@ -119,6 +119,7 @@ try {
 
 
 async function main() {
+  const skipDownloads= process.argv.length > 2 && process.argv[2] == "skip";
   const [feedItems, sessionData] = await Promise.all([fetchFeedItems(feedUrl), readFile(sessionsFilename)]);
   const sessions = JSON.parse(sessionData);
   for (const session of sessions) {
@@ -140,6 +141,7 @@ async function main() {
     fs.mkdirSync(downloadsDirName);
   }
 
+  if (!skipDownloads) {
   for (const item of newItems) {
     await download(item.sourcelink, downloadsDirName + '/' + safeFilename(item.title + '.mp3'), count => {
       process.stdout.cursorTo(0);
@@ -147,6 +149,7 @@ async function main() {
     });
     console.log('complete');
     delete item.sourcelink;
+  }
   }
 
   const updatedSessions = [...newItems, ...sessions];
