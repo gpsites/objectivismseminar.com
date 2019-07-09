@@ -27,16 +27,16 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday July 8,
+* Monday July 15: **NO SESSION** (get the new book!)
+* Monday July 22,
   8:00pm [Mountain][mtn]:
   The Panel will
-  **conclude discussion** 
-  of Chapter 23 (Humanism) 
-  at about page 442
-  in Steven Pinker's book, [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress][book]
+  begin discussion
+  of Part 1
+  in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
-[![Enlightenment Now][cover]{:style="margin-left:2em;max-width:25em"}][book]
+[![A New Textbook of Americanism][cover]{:style="margin-left:2em;max-width:25em"}][book]
 
-[cover]:    https://images-na.ssl-images-amazon.com/images/I/51Z212TCk%2BL._SX327_BO1,204,203,200_.jpg
-[book]:     https://amzn.to/2H6TwL5
+[cover]:    https://images-na.ssl-images-amazon.com/images/I/61f262ACnBL.jpg
+[book]:     https://www.amazon.com/New-Textbook-Americanism-Jonathan-Hoenig/dp/0692930442
 [mtn]:      http://wwp.greenwichmeantime.com/time-zone/usa/mountain-time/
