@@ -34,7 +34,7 @@ Here is what we have planned:
   discussion of Part 1
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
-[![A New Textbook of Americanism][cover]{:style="margin-left:2em;max-width:25em"}][book]
+[![A New Textbook of Americanism][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
 
 [cover]:    https://images-na.ssl-images-amazon.com/images/I/61f262ACnBL.jpg
 [book]:     https://www.amazon.com/New-Textbook-Americanism-Jonathan-Hoenig/dp/0692930442
