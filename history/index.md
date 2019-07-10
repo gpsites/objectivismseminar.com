@@ -6,7 +6,10 @@ tab: history
 
 A Brief History of the Seminar's Study
 --------------------------------------
-* [_Enlightenment Now: The Case for Reason, Science, Humanism, and Progress_](https://amzn.to/2H6TwL5) by Steven Pinker (ongoing)
+
+* [_A New Textbook of Americanism: The Politics of Ayn Rand_](http://amzn.com/0692930442) edited by Jonathan Hoenig (ongoing)
+
+* [_Enlightenment Now: The Case for Reason, Science, Humanism, and Progress_](https://amzn.to/2H6TwL5) by Steven Pinker (49 sessions)
 
 * [_The Moral Case for Fossil Fuels_](http://amzn.to/2kqwt6I) by Alex Epstein (15 sessions)
 
