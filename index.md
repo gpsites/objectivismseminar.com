@@ -30,8 +30,9 @@ Here is what we have planned:
 * Monday July 15: **NO SESSION** (get the new book!)
 * Monday July 22,
   8:00pm [Mountain][mtn]:
-  Kyle will lead
-  discussion of Part 1
+  Kyle will 
+  begin leading discussion of 
+  Part 1
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
 [![A New Textbook of Americanism][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
