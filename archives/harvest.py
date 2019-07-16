@@ -3,6 +3,7 @@ import feedparser
 import json
 import os
 import re
+import requests
 import urllib.request
 import urllib.parse
 import time
@@ -12,6 +13,7 @@ sessions_filename = 'sessions.json'
 rss_filename = 'rss.xml'
 download_dir = "./downloads"
 bucket_prefix = 'https://oapodcasts.s3.amazonaws.com/'
+ipfs_prefix = 'https://cloudflare-ipfs.com/ipfs/'
 feedUrl = ('https://www.freeconferencecall.com/rss/podcast' +
            '?id=2dd4f6a755aa45d0e05e72cc2367b2611992a141827eb6addeed79c5baf445fe_292812442')
 
@@ -43,7 +45,6 @@ for item in feed_items:
         new_items.append({
             'title': item['title'],
             'sourcelink': link_info['href'],
-            'link': urllib.parse.quote(f'{bucket_prefix}{safe_name(item["title"])}.mp3'),
             'length': int(link_info['length']),
             'description': "Please visit www.ObjectivismSeminar.com for more information.",
             'pubDate': time.strftime('%Y-%m-%dT%H:%M:%SZ', item['published_parsed'])
@@ -72,6 +73,30 @@ for item in new_items:
         copyfileobj(response, out_file, progress)
         print(f'{title}... 100% downloaded')
 
+# updload new items to pinata (ipfs)
+for item in new_items:
+    length = item['length']
+    title = item['title']
+    file_path = f'{download_dir}/{safe_name(title)}.mp3'
+    myheaders = {
+        "pinata_api_key": os.environ['PINATA_API_KEY'],
+        "pinata_secret_api_key": os.environ['PINATA_SECRET_API_KEY']
+    }
+    myfile = {
+      "file": open(file_path, 'rb')
+    }
+
+    print(f'uploading {title}...', end='\r')
+    response = requests.post('https://api.pinata.cloud/pinning/pinFileToIPFS',
+                             files=myfile,
+                             headers=myheaders)
+    print(f'uploaded {title}       ')
+    if response.ok:
+        item['CID'] = response.json()['IpfsHash']
+        item['link'] = f'{ipfs_prefix}{item["CID"]}',
+    else:
+        raise Exception(f'upload failed for {title}', response)
+
 # write the new sessions json file
 new_session_items = new_items + session_items
 with open('x-' + sessions_filename, 'w') as outfile:
@@ -95,7 +120,8 @@ p.authors = [Person("Greg Perkins", "greg@ecosmos.com")]
 p.owner = p.authors[0]
 
 p.episodes += [Episode(title=x['title'],
-                       media=Media(x['link'], type="audio/mpeg", size=x.get('length', 0)),
+                       media=Media(item['link'], type="audio/mpeg", size=x.get('length', 0)),
+                       id=x.get('oldGUID') or x['CID'],
                        publication_date=x['pubDate'],
                        summary=x['description']) for x in new_session_items]
 
@@ -107,9 +133,6 @@ print('wrote rss file')
 # TODO:
 #
 # take out the x- on the written sessions file
-#
-# should set Episode id (i.e., guid) to the OLD link (that's what it defaults to now),
-# then for future episodes can switch to new links.
 #
 # identify new episodes by pubDate instead of title?
 #
