@@ -5,4 +5,5 @@ _site
 node_modules
 downloads
 package-lock.json
+.venv
 .DS_Store
