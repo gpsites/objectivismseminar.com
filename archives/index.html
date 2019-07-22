@@ -32,11 +32,6 @@
     <link rel="icon" href="/assets/images/atlas-favicon.jpg" type="image/x-icon" />
     <script src="https://vuejs.org/js/vue.min.js"></script>
     <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
-    <style>
-        .failing {
-            color: red;
-        }
-    </style>
 </head>
 
 <body>
@@ -71,7 +66,7 @@
 
                         <div class="rssItem">
                             <div class="rssItemTitle">
-                              <a :href="session.link" :class="{failing: !session.link}"  target="_blank">{{session.title}}</a>
+                              <a :href="session.link" target="_blank">{{session.title}}</a>
                             </div>
                             <div class="rssItemDate">{{session.pubDate | formatDate}}</div>
                             <div class="rssItemSummary">{{session.description}}</div>
@@ -133,10 +128,8 @@ var app = new Vue({
   },
   computed: {
     filteredSessions: function () {
-      let lcFilter = this.filter.toLowerCase()
-      return this.sessions.filter(function (session) {
-        return (session.title + session.description).toLowerCase().indexOf(lcFilter) >= 0
-      })
+      const lcFilter = this.filter.toLowerCase()
+      return this.sessions.filter(session => session.search.indexOf(lcFilter) >= 0)
     }
   },
   methods: {
@@ -147,6 +140,7 @@ $.getJSON("sessions.json", function(json) {
   let fails = 0;
   json.forEach(function (x) {
     x.pubDate = new Date(x.pubDate)
+    x.search = (x.title + ' ' + x.description).toLowerCase()
   })
   app.sessions = json
 });
