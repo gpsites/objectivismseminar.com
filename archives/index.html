@@ -67,7 +67,7 @@
                     <input v-model="filter" placeholder="type to filter"> (showing {{filteredSessions.length}} of {{sessions.length}})
                     <br />
                     <br />
-                    <div id="rssSummaryList110" class="rssSummaryList" v-for="session in filteredSessions" :key="session.link">
+                    <div id="rssSummaryList110" class="rssSummaryList" v-for="session in filteredSessions" :key="session.GUID">
 
                         <div class="rssItem">
                             <div class="rssItemTitle">
