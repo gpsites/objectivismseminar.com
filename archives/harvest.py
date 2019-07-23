@@ -16,7 +16,8 @@ sessions_filename = 'sessions.json'
 rss_filename = 'rss.xml'
 download_dir = "./downloads"
 bucket_prefix = 'https://oapodcasts.s3.amazonaws.com/'
-ipfs_prefix = 'https://cloudflare-ipfs.com/ipfs/'
+# ipfs_prefix = 'https://cloudflare-ipfs.com/ipfs/'
+ipfs_prefix = 'https://gateway.pinata.cloud/ipfs/'
 feedUrl = ('https://www.freeconferencecall.com/rss/podcast' +
            '?id=2dd4f6a755aa45d0e05e72cc2367b2611992a141827eb6addeed79c5baf445fe_292812442')
 
@@ -109,12 +110,15 @@ for item in new_items:
     if response.ok:
         item['CID'] = response.json()['IpfsHash']
         item['GUID'] = item["CID"]
-        item['link'] = f'{ipfs_prefix}{item["CID"]}'
     else:
         raise Exception(f'upload failed for {title}', response)
 
 # write the new sessions json file
 new_session_items = new_items + session_items
+
+for item in new_session_items:
+    item['link'] = f'{ipfs_prefix}{item["CID"]}'
+
 with open(sessions_filename, 'w') as outfile:
     json.dump(new_session_items, outfile, indent=2)
 
