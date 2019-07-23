@@ -20,11 +20,6 @@ ipfs_prefix = 'https://cloudflare-ipfs.com/ipfs/'
 feedUrl = ('https://www.freeconferencecall.com/rss/podcast' +
            '?id=2dd4f6a755aa45d0e05e72cc2367b2611992a141827eb6addeed79c5baf445fe_292812442')
 
-print('fetching FreeConferenceCall.com rss feed')
-feed_items = feedparser.parse(feedUrl)['entries']
-print('loading existing sessions')
-session_items = json.load(open(sessions_filename))
-
 
 def safe_name(title):
     return re.sub(r'[:/]', '_', title)
@@ -41,7 +36,12 @@ def copyfileobj(fsrc, fdst, callback, length=16*1024):
         callback(copied)
 
 
-# identify new items by title (TODO: maybe do this by pubDate?)
+print('>>> fetching FreeConferenceCall.com rss feed')
+feed_items = feedparser.parse(feedUrl)['entries']
+
+print('>>> loading existing sessions.json file')
+session_items = json.load(open(sessions_filename))
+
 new_items = []
 for item in feed_items:
     link_info = [x for x in item['links'] if x['type'] == 'audio/mp3'][0]
@@ -54,6 +54,8 @@ for item in feed_items:
             'description': "Please visit www.ObjectivismSeminar.com for more information.",
             'pubDate': time.strftime('%Y-%m-%dT%H:%M:%SZ', item['published_parsed'])
         })
+
+print(f'>>> identified {len(new_items)} new session(s) by title')  # TODO: do this by pubDate?
 
 # ensure downloads directory is in place
 if not os.path.exists(download_dir):
@@ -69,23 +71,22 @@ for item in new_items:
     length = item['length']
     title = item['title']
 
-
     def progress(bytes_read):
-        print(f'{title}... {int(100 * bytes_read/length)}% downloaded', end='\r')
+        print(f'>>> {title} -- {int(100 * bytes_read/length)}% downloaded', end='\r')
 
     file_path = f'{download_dir}/{safe_name(title)}.mp3'
 
     try:
         if os.path.getsize(file_path) == length:
-            print(f'{title} was already downloaded')
+            print(f'>>> {title} -- 100% downloaded')
             continue
     except FileNotFoundError:
         pass
 
-    print(f'{title}... 0% downloaded', end='\r')
+    print(f'>>> {title} -- 0% downloaded', end='\r')
     with urllib.request.urlopen(url) as response, open(file_path, 'wb') as out_file:
         copyfileobj(response, out_file, progress)
-        print(f'{title}... 100% downloaded')
+        print(f'>>> {title} -- 100% downloaded')
 
 # updload new items to pinata (ipfs pinning service)
 for item in new_items:
@@ -100,11 +101,11 @@ for item in new_items:
       "file": open(file_path, 'rb')
     }
 
-    print(f'uploading {title}...', end='\r')
+    print(f'>>> uploading {title}...', end='\r')
     response = requests.post('https://api.pinata.cloud/pinning/pinFileToIPFS',
                              files=myfile,
                              headers=myheaders)
-    print(f'uploaded {title}       ')
+    print(f'>>> uploaded {title}       ')
     if response.ok:
         item['CID'] = response.json()['IpfsHash']
         item['GUID'] = item["CID"]
@@ -117,7 +118,7 @@ new_session_items = new_items + session_items
 with open(sessions_filename, 'w') as outfile:
     json.dump(new_session_items, outfile, indent=2)
 
-print('wrote sessions file')
+print('>>> wrote fresh sessions.json file')
 
 # write the new podcast rss file
 p = Podcast()
@@ -143,4 +144,4 @@ p.episodes += [Episode(title=x['title'],
 
 p.rss_file(rss_filename)
 
-print('wrote rss file')
+print('>>> wrote fresh rss.xml file')
