@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.0.0 https://podgen.readthedocs.org</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 Jul 2019 20:29:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2019 04:31:11 +0000</lastBuildDate>
     <itunes:author>Greg Perkins</itunes:author>
     <managingEditor>greg@ecosmos.com (Greg Perkins)</managingEditor>
-    <pubDate>Tue, 09 Jul 2019 05:55:00 +0000</pubDate>
+    <pubDate>Tue, 23 Jul 2019 05:26:19 +0000</pubDate>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
@@ -21,6 +21,13 @@
       <itunes:email>greg@ecosmos.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://www.objectivismseminar.com/archives/rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A New Textbook of Americanism: Part I, Session 1</title>
+      <description><![CDATA[Please visit www.ObjectivismSeminar.com for more information.]]></description>
+      <guid isPermaLink="false">QmVyGXJYLMtSXY7PRc7ayxYHGRHYDS74H7yv6BY3jFKrLT</guid>
+      <enclosure url="https://cloudflare-ipfs.com/ipfs/QmVyGXJYLMtSXY7PRc7ayxYHGRHYDS74H7yv6BY3jFKrLT" length="46328640" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Jul 2019 05:26:19 +0000</pubDate>
+    </item>
     <item>
       <title>Enlightenment Now: Chapter 23, Session 5</title>
       <description><![CDATA[We continue exploring _Enlightenment Now: The Case for Reason, Science, Humanism, and Progress_ by Steven Pinker -- https://amzn.to/2H6TwL5  Please visit www.ObjectivismSeminar.com for more information.]]></description>
@@ -1935,7 +1942,7 @@
     <item>
       <title>Free Market Revolution: Why Government Grows</title>
       <description><![CDATA[We continue discussion with the second chapter ("Why Government Grows") of the book _ Free Market Revolution: How Ayn Rand's Ideas Can End Big Government_ http://amzn.to/101qySN (This is a segment of The Objectivism Seminar. Please visit www.ObjectivismSeminar.com for more information!)]]></description>
-      <guid isPermaLink="false">https://oapodcasts.s3.amazonaws.com/Free%20Market%20Revolution_%20Why%20Government%20Grows%20(really).mp3</guid>
+      <guid isPermaLink="false">https://oapodcasts.s3.amazonaws.com/Free%20Market%20Revolution_%20Why%20Government%20Grows.mp3</guid>
       <enclosure url="https://cloudflare-ipfs.com/ipfs/QmZ6rhgm9EzsPY3mPVKxu4s8hGvU2VrSVyKZMdPh5YMjXQ" length="28652744" type="audio/mpeg"/>
       <pubDate>Tue, 04 Jun 2013 02:14:15 +0000</pubDate>
     </item>

@@ -4,12 +4,13 @@ import errno
 import feedparser
 import json
 import os
-from podgen import Podcast, Media, Episode, Category, Person
+from podgen import Podcast, Media, Episode, Category, Person, NotSupportedByItunesWarning
 import re
 import requests
 import urllib.request
 import urllib.parse
 import time
+import warnings
 
 sessions_filename = 'sessions.json'
 rss_filename = 'rss.xml'
@@ -68,10 +69,19 @@ for item in new_items:
     length = item['length']
     title = item['title']
 
+
     def progress(bytes_read):
         print(f'{title}... {int(100 * bytes_read/length)}% downloaded', end='\r')
 
     file_path = f'{download_dir}/{safe_name(title)}.mp3'
+
+    try:
+        if os.path.getsize(file_path) == length:
+            print(f'{title} was already downloaded')
+            continue
+    except FileNotFoundError:
+        pass
+
     print(f'{title}... 0% downloaded', end='\r')
     with urllib.request.urlopen(url) as response, open(file_path, 'wb') as out_file:
         copyfileobj(response, out_file, progress)
@@ -124,6 +134,7 @@ p.feed_url = "https://www.objectivismseminar.com/archives/rss"
 p.authors = [Person("Greg Perkins", "greg@ecosmos.com")]
 p.owner = p.authors[0]
 
+warnings.simplefilter("ignore", NotSupportedByItunesWarning)
 p.episodes += [Episode(title=x['title'],
                        media=Media(x['link'], type="audio/mpeg", size=x['length']),
                        id=x['GUID'],
