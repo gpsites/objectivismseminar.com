@@ -12,6 +12,7 @@ import urllib.parse
 import time
 import warnings
 
+default_description = "Please visit www.ObjectivismSeminar.com for more information."
 sessions_filename = 'sessions.json'
 rss_filename = 'rss.xml'
 download_dir = "./downloads"
@@ -45,14 +46,13 @@ session_items = json.load(open(sessions_filename))
 
 new_items = []
 for item in feed_items:
-    link_info = [x for x in item['links'] if x['type'] == 'audio/mp3'][0]
-    if 0 == len([session_item for session_item in session_items
-                 if item['title'] == session_item['title']]):
+    link_info = next((x for x in item['links'] if x['type'] == 'audio/mp3'), None)
+    if not next((x for x in session_items if item['title'] == x['title']), None):
         new_items.append({
             'title': item['title'],
             'sourcelink': link_info['href'],
             'length': int(link_info['length']),
-            'description': "Please visit www.ObjectivismSeminar.com for more information.",
+            'description': default_description,
             'pubDate': time.strftime('%Y-%m-%dT%H:%M:%SZ', item['published_parsed'])
         })
 
@@ -107,11 +107,14 @@ for item in new_items:
                              files=myfile,
                              headers=myheaders)
     print(f'>>> uploaded {title}       ')
-    if response.ok:
-        item['CID'] = response.json()['IpfsHash']
-        item['GUID'] = item["CID"]
-    else:
+    if not response.ok:
         raise Exception(f'upload failed for {title}', response)
+
+    cid = response.json()['IpfsHash']
+    item['CID'] = cid
+    item['GUID'] = cid
+    if next((x for x in session_items if x['CID'] == cid), None):
+        print(f'WARNING: duplicate CID {cid} for new item: {title}')
 
 # write the new sessions json file
 new_session_items = new_items + session_items
