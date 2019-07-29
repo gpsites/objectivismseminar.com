@@ -4,13 +4,12 @@ import errno
 import feedparser
 import json
 import os
-from podgen import Podcast, Media, Episode, Category, Person, NotSupportedByItunesWarning
+from podgen import Podcast, Media, Episode, Category, Person
 import re
 import requests
 import urllib.request
 import urllib.parse
 import time
-import warnings
 
 default_description = "Please visit www.ObjectivismSeminar.com for more information."
 sessions_filename = 'sessions.json'
@@ -19,12 +18,17 @@ download_dir = "./downloads"
 bucket_prefix = 'https://oapodcasts.s3.amazonaws.com/'
 # ipfs_prefix = 'https://cloudflare-ipfs.com/ipfs/'
 ipfs_prefix = 'https://gateway.pinata.cloud/ipfs/'
+ipfs_suffix = '/audio.mp3'
 feedUrl = ('https://www.freeconferencecall.com/rss/podcast' +
            '?id=2dd4f6a755aa45d0e05e72cc2367b2611992a141827eb6addeed79c5baf445fe_292812442')
 
 
 def safe_name(title):
     return re.sub(r'[:/]', '_', title)
+
+
+def safe_pinata_path(title):
+    return re.sub(r'[:/.]', '_', title)
 
 
 def copyfileobj(fsrc, fdst, callback, length=16*1024):
@@ -99,7 +103,9 @@ for item in new_items:
         "pinata_secret_api_key": os.environ['PINATA_SECRET_API_KEY']
     }
     myfile = {
-      "file": open(file_path, 'rb')
+        # Using the title as an IPFS directory containing audio.mp3 because
+        # stupid iTunes just HAS to see an .mp3 at the end of a URL.
+        "file": (f'{safe_pinata_path(title)}{ipfs_suffix}', open(file_path, 'rb'))
     }
 
     print(f'>>> uploading {title}...', end='\r')
@@ -108,7 +114,7 @@ for item in new_items:
                              headers=myheaders)
     print(f'>>> uploaded {title}       ')
     if not response.ok:
-        raise Exception(f'upload failed for {title}', response)
+        raise Exception(f'upload failed for {title}', response.text)
 
     cid = response.json()['IpfsHash']
     item['CID'] = cid
@@ -117,17 +123,17 @@ for item in new_items:
         print(f'WARNING: duplicate CID {cid} for new item: {title}')
 
 # write the new sessions json file
-new_session_items = new_items + session_items
+updated_session_items = new_items + session_items
 
-for item in new_session_items:
-    item['link'] = f'{ipfs_prefix}{item["CID"]}'
+for item in updated_session_items:
+    item['link'] = f'{ipfs_prefix}{item["CID"]}{ipfs_suffix}'
 
 with open(sessions_filename, 'w') as outfile:
-    json.dump(new_session_items, outfile, indent=2)
+    json.dump(updated_session_items, outfile, indent=2)
 
 print('>>> wrote fresh sessions.json file')
 
-# write the new podcast rss file
+# write the new rss file
 p = Podcast()
 
 p.name = "The Objectivism Seminar"
@@ -142,12 +148,11 @@ p.feed_url = "https://www.objectivismseminar.com/archives/rss"
 p.authors = [Person("Greg Perkins", "greg@ecosmos.com")]
 p.owner = p.authors[0]
 
-warnings.simplefilter("ignore", NotSupportedByItunesWarning)
 p.episodes += [Episode(title=x['title'],
                        media=Media(x['link'], type="audio/mpeg", size=x['length']),
                        id=x['GUID'],
                        publication_date=x['pubDate'],
-                       summary=x['description']) for x in new_session_items]
+                       summary=x['description']) for x in updated_session_items]
 
 p.rss_file(rss_filename)
 
