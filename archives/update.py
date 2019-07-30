@@ -1,4 +1,8 @@
 #!./.venv/bin/python
+#
+#   create the environment: python3 -m venv .venv
+# activate the environment: source .venv/bin/activate
+#     install dependencies: pip install setuptools feedparser podgen
 
 import errno
 import feedparser
