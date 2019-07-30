@@ -145,8 +145,8 @@ p.description = ("A weekly online conference call to systematically study " +
 p.website = "https://www.objectivismseminar.com"
 p.image = "https://www.objectivismseminar.com/assets/images/atlas-square.jpg"
 p.feed_url = "https://www.objectivismseminar.com/archives/rss"
-p.authors = [Person("Greg Perkins", "greg@ecosmos.com")]
-p.owner = p.authors[0]
+p.authors = [Person("Greg Perkins, Host", "greg@objectivismseminar.com")]
+p.owner = Person("Greg Perkins", "greg@ecosmos.com")
 
 p.episodes += [Episode(title=x['title'],
                        media=Media(x['link'], type="audio/mpeg", size=x['length']),
