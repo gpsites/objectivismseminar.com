@@ -142,10 +142,10 @@ p.language = "en-US"
 p.explicit = True
 p.description = ("A weekly online conference call to systematically study " +
                  "the philosophy of Objectivism via the works of prominent Rand scholars.")
-p.website = "https://www.objectivismseminar.com"
-p.image = "https://www.objectivismseminar.com/assets/images/atlas-square.jpg"
-p.feed_url = "https://www.objectivismseminar.com/archives/rss"
-p.authors = [Person("Greg Perkins, Host", "greg@objectivismseminar.com")]
+p.website = "https://www.ObjectivismSeminar.com"
+p.image = "https://www.ObjectivismSeminar.com/assets/images/atlas-square.jpg"
+p.feed_url = "https://www.ObjectivismSeminar.com/archives/rss"
+p.authors = [Person("Greg Perkins, Host", "greg@ObjectivismSeminar.com")]
 p.owner = Person("Greg Perkins", "greg@ecosmos.com")
 
 p.episodes += [Episode(title=x['title'],
