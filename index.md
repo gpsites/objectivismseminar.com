@@ -30,8 +30,8 @@ Here is what we have planned:
 * Monday August 12,
   8:00pm [Mountain][mtn]:
   Greg will 
-  begin leading discussion at page 21 of
-  Onkar Ghate's section, "On American Political Philosophy"
+  begin leading discussion at page 21 in
+  Onkar Ghate's section, "On American Political Philosophy",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
 [![A New Textbook of Americanism][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
