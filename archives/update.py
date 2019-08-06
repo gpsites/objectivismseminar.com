@@ -15,7 +15,8 @@ import urllib.request
 import urllib.parse
 import time
 
-default_description = "Please visit www.ObjectivismSeminar.com for more information."
+default_description = "We explore _A New Textbook of Americanism: The Politics of Ayn Rand_ edited by Jonathan Hoenig -- http://amzn.com/0692930442  Please visit www.ObjectivismSeminar.com for more information!"
+
 sessions_filename = 'sessions.json'
 rss_filename = 'rss.xml'
 download_dir = "./downloads"
