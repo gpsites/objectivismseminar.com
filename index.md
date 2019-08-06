@@ -27,11 +27,11 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday August 5,
+* Monday August 12,
   8:00pm [Mountain][mtn]:
-  Kyle will 
-  continue leading discussion of 
-  Part I (at page 8)
+  Greg will 
+  begin leading discussion at page 21 of
+  Onkar Ghate's section, "On American Political Philosophy"
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
 [![A New Textbook of Americanism][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
