@@ -27,7 +27,7 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday August 12,
+* Monday August 19,
   8:00pm [Mountain][mtn]:
   Greg will 
   continue leading discussion at page 26 in
