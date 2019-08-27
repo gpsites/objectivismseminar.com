@@ -27,10 +27,11 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday August 26,
+* Monday September 2: **NO SESSION** (holiday)
+* Monday September 9,
   8:00pm [Mountain][mtn]:
   Greg will 
-  continue leading discussion at page 28 in
+  continue leading discussion at page 31 in
   Onkar Ghate's section, "On American Political Philosophy",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
