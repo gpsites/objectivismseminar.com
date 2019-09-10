@@ -27,12 +27,12 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday September 2: **NO SESSION** (holiday)
-* Monday September 9,
+* Monday September 16,
   8:00pm [Mountain][mtn]:
-  Greg will 
-  continue leading discussion at page 31 in
-  Onkar Ghate's section, "On American Political Philosophy",
+  Carl will 
+  begin 
+  leading discussion at page 35 in
+  the section "On Property Rights",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
 [![A New Textbook of Americanism][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
