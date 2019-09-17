@@ -27,7 +27,7 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday September 16,
+* Monday September 23,
   8:00pm [Mountain][mtn]:
   Carl will 
   begin 
