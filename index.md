@@ -31,8 +31,8 @@ Here is what we have planned:
   8:00pm [Mountain][mtn]:
   Carl will 
   begin 
-  leading discussion at page 35 in
-  the section "On Property Rights",
+  leading discussion at page 41 in
+  the section "On Freedom vs. Dictatorship",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
 [![A New Textbook of Americanism][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
