@@ -27,12 +27,12 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday September 23,
+* Monday September 30,
   8:00pm [Mountain][mtn]:
-  Carl will 
+  Greg will 
   begin 
-  leading discussion at page 41 in
-  the section "On Freedom vs. Dictatorship",
+  leading discussion at page 51 in
+  the section "On Economics",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
 [![A New Textbook of Americanism][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
