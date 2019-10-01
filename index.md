@@ -27,12 +27,12 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday September 30,
+* Monday October 7,
   8:00pm [Mountain][mtn]:
-  Greg will 
+  We will 
   begin 
-  leading discussion at page 51 in
-  the section "On Economics",
+  leading discussion at page 59 in
+  the section "On Civil Rights",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
 [![A New Textbook of Americanism][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
