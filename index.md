@@ -27,11 +27,11 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday October 7,
+* Monday October 14,
   8:00pm [Mountain][mtn]:
   We will 
-  begin 
-  leading discussion at page 59 in
+  continue 
+  discussion at page 60 in
   the section "On Civil Rights",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 

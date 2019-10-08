@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.0.0 https://podgen.readthedocs.org</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Oct 2019 05:43:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2019 06:07:55 +0000</lastBuildDate>
     <itunes:author>Greg Perkins, Host</itunes:author>
     <managingEditor>greg@ObjectivismSeminar.com (Greg Perkins, Host)</managingEditor>
-    <pubDate>Tue, 01 Oct 2019 05:26:47 +0000</pubDate>
+    <pubDate>Tue, 08 Oct 2019 05:21:14 +0000</pubDate>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
@@ -21,6 +21,13 @@
       <itunes:email>greg@ecosmos.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://www.ObjectivismSeminar.com/archives/rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A New Textbook of Americanism: On Civil Rights, Session 1</title>
+      <description><![CDATA[We explore _A New Textbook of Americanism: The Politics of Ayn Rand_ edited by Jonathan Hoenig -- http://amzn.com/0692930442  Please visit www.ObjectivismSeminar.com for more information!]]></description>
+      <guid isPermaLink="false">QmUMtJ4Ro3bnhrVNdCxERiA4DUSc6ci7qbVnii4VXFG1W6</guid>
+      <enclosure url="https://gateway.pinata.cloud/ipfs/QmUMtJ4Ro3bnhrVNdCxERiA4DUSc6ci7qbVnii4VXFG1W6/audio.mp3" length="46120000" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Oct 2019 05:21:14 +0000</pubDate>
+    </item>
     <item>
       <title>A New Textbook of Americanism: On Economics</title>
       <description><![CDATA[We explore _A New Textbook of Americanism: The Politics of Ayn Rand_ edited by Jonathan Hoenig -- http://amzn.com/0692930442  Please visit www.ObjectivismSeminar.com for more information!]]></description>
