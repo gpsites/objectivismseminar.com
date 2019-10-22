@@ -27,12 +27,11 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday October 14: *NO SESSION* (lack of quorum)
-* Monday October 21,
+* Monday October 28,
   8:00pm [Mountain][mtn]:
   We will 
   continue 
-  discussion at page 60 in
+  discussion at page 63 in
   the section "On Civil Rights",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
