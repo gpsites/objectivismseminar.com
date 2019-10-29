@@ -27,7 +27,7 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday October 28,
+* Monday November 4,
   8:00pm [Mountain][mtn]:
   We will 
   continue 
