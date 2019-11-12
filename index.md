@@ -27,12 +27,12 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday November 11,
+* Monday November 18,
   8:00pm [Mountain][mtn]:
   We will 
   continue 
-  discussion at page 66 in
-  the section "On Civil Rights",
+  discussion at page 77 in
+  the section "On the Role of Voting in the American System of Government",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
 [![A New Textbook of Americanism][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
