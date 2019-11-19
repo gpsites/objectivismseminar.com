@@ -27,11 +27,11 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday November 18,
+* Monday November 25,
   8:00pm [Mountain][mtn]:
   We will 
   continue 
-  discussion at page 77 in
+  discussion at page 80 in
   the section "On the Role of Voting in the American System of Government",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
