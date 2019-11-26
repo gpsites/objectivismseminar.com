@@ -27,12 +27,12 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday November 25,
+* Monday December 2,
   8:00pm [Mountain][mtn]:
   We will 
   continue 
-  discussion at page 80 in
-  the section "On the Role of Voting in the American System of Government",
+  discussion at page 87 in
+  the section "On the Alt-Right",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
 [![A New Textbook of Americanism][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
