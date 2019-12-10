@@ -27,11 +27,11 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday December 9,
+* Monday December 16,
   8:00pm [Mountain][mtn]:
   We will 
   continue 
-  discussion at page 93 in
+  discussion at page 94 in
   the section "On the Necessity and Efficacy of Principles",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
