@@ -27,12 +27,13 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday December 16,
+* Monday December 23: NO SESSION
+* Monday December 30,
   8:00pm [Mountain][mtn]:
   We will 
   continue 
-  discussion at page 94 in
-  the section "On the Necessity and Efficacy of Principles",
+  discussion at page 105 in
+  the section "Further Commentary by Ayn Rand",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
 [![A New Textbook of Americanism][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
