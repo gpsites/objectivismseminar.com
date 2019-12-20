@@ -11,9 +11,10 @@ import os
 from podgen import Podcast, Media, Episode, Category, Person
 import re
 import requests
+import ssl
+import time
 import urllib.request
 import urllib.parse
-import time
 
 default_description = "We explore _A New Textbook of Americanism: The Politics of Ayn Rand_ edited by Jonathan Hoenig -- http://amzn.com/0692930442  Please visit www.ObjectivismSeminar.com for more information!"
 
@@ -27,6 +28,14 @@ ipfs_suffix = '/audio.mp3'
 feedUrl = ('https://www.freeconferencecall.com/rss/podcast' +
            '?id=2dd4f6a755aa45d0e05e72cc2367b2611992a141827eb6addeed79c5baf445fe_292812442')
 
+try:
+    _create_unverified_https_context = ssl._create_unverified_context
+except AttributeError:
+    # Legacy Python that doesn't verify HTTPS certificates by default
+    pass
+else:
+    # Handle target environment that doesn't support HTTPS verification
+    ssl._create_default_https_context = _create_unverified_https_context
 
 def safe_name(title):
     return re.sub(r'[:/]', '_', title)
