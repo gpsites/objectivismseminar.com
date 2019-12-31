@@ -27,12 +27,11 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday December 23: NO SESSION
-* Monday December 30,
+* Monday January 6,
   8:00pm [Mountain][mtn]:
   We will 
   continue 
-  discussion at page 105 in
+  discussion at page 107 in
   the section "Further Commentary by Ayn Rand",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>The Objectivism Seminar</title>
     <link>https://www.ObjectivismSeminar.com</link>
     <description>A weekly online conference call to systematically study the philosophy of Objectivism via the works of prominent Rand scholars.</description>
     <itunes:explicit>yes</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>python-podgen v1.0.0 https://podgen.readthedocs.org</generator>
+    <generator>python-podgen v1.0.1 https://podgen.readthedocs.org</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 17 Dec 2019 06:07:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 04:44:29 +0000</lastBuildDate>
     <itunes:author>Greg Perkins, Host</itunes:author>
     <managingEditor>greg@ObjectivismSeminar.com (Greg Perkins, Host)</managingEditor>
-    <pubDate>Tue, 17 Dec 2019 06:46:30 +0000</pubDate>
+    <pubDate>Tue, 31 Dec 2019 05:45:50 +0000</pubDate>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
@@ -21,6 +21,13 @@
       <itunes:email>greg@ecosmos.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://www.ObjectivismSeminar.com/archives/rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A New Textbook of Americanism: Further Commentary, Session 1</title>
+      <description><![CDATA[We explore _A New Textbook of Americanism: The Politics of Ayn Rand_ edited by Jonathan Hoenig -- http://amzn.com/0692930442  Please visit www.ObjectivismSeminar.com for more information!]]></description>
+      <guid isPermaLink="false">QmX63N4L99jjHjoSimZ7hurH23hui5QtLcPTd2BGQNsYjN</guid>
+      <enclosure url="https://gateway.pinata.cloud/ipfs/QmX63N4L99jjHjoSimZ7hurH23hui5QtLcPTd2BGQNsYjN/audio.mp3" length="33192000" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Dec 2019 05:45:50 +0000</pubDate>
+    </item>
     <item>
       <title>A New Textbook of Americanism: On Principles, Session 2</title>
       <description><![CDATA[We explore _A New Textbook of Americanism: The Politics of Ayn Rand_ edited by Jonathan Hoenig -- http://amzn.com/0692930442  Please visit www.ObjectivismSeminar.com for more information!]]></description>
