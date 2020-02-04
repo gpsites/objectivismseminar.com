@@ -27,12 +27,12 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday February 3,
+* Monday February 10,
   8:00pm [Mountain][mtn]:
   We will 
   continue 
-  discussion at page 125 in
-  the section "Further Commentary by Ayn Rand",
+  discussion at page 127 in
+  the section "Texbook of Americanism Today",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
 [![A New Textbook of Americanism][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
