@@ -27,8 +27,7 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday February 17: **NO SESSION**
-* Monday February 24,
+* Monday March 2,
   8:00pm [Mountain][mtn]:
   We will 
   continue 
