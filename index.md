@@ -27,11 +27,11 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday March 9,
+* Monday March 16,
   8:00pm [Mountain][mtn]:
   We will 
   continue 
-  discussion at page 132 in
+  discussion at page 133 in
   the section "Texbook of Americanism Today",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
