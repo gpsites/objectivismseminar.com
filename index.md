@@ -27,7 +27,7 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday March 16,
+* Monday March 23,
   8:00pm [Mountain][mtn]:
   We will 
   continue 
