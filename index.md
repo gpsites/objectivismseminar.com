@@ -4,7 +4,6 @@ layout: default
 tab: home
 ---
 
-
 Engaging the Philosophy of Ayn Rand
 -----------------------------------
 Welcome to The Objectivism Seminar, a weekly online conference call to
