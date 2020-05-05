@@ -30,7 +30,7 @@ Here is what we have planned:
   8:00pm [Mountain][mtn]:
   We will 
   continue 
-  discussion at page 140 in
+  discussion at page 144 in
   the section "Texbook of Americanism Today",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
