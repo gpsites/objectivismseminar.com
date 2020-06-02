@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.0.1 https://podgen.readthedocs.org</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 May 2020 04:09:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 04:05:02 +0000</lastBuildDate>
     <itunes:author>Greg Perkins, Host</itunes:author>
     <managingEditor>greg@ObjectivismSeminar.com (Greg Perkins, Host)</managingEditor>
-    <pubDate>Tue, 19 May 2020 05:51:31 +0000</pubDate>
+    <pubDate>Tue, 02 Jun 2020 05:51:10 +0000</pubDate>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
@@ -21,6 +21,13 @@
       <itunes:email>greg@ecosmos.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://www.ObjectivismSeminar.com/archives/rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A New Textbook of Americanism: Buy American is, Session 1</title>
+      <description><![CDATA[We explore _A New Textbook of Americanism: The Politics of Ayn Rand_ edited by Jonathan Hoenig -- http://amzn.com/0692930442  Please visit www.ObjectivismSeminar.com for more information!]]></description>
+      <guid isPermaLink="false">QmbThWfsK6dTE6qctnkwfnvJBCBzNyLaTKMgToMd2pk6TA</guid>
+      <enclosure url="https://gateway.pinata.cloud/ipfs/QmbThWfsK6dTE6qctnkwfnvJBCBzNyLaTKMgToMd2pk6TA/audio.mp3" length="54208000" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Jun 2020 05:51:10 +0000</pubDate>
+    </item>
     <item>
       <title>A New Textbook of Americanism: Americanism and, Session 4</title>
       <description><![CDATA[We explore _A New Textbook of Americanism: The Politics of Ayn Rand_ edited by Jonathan Hoenig -- http://amzn.com/0692930442  Please visit www.ObjectivismSeminar.com for more information!]]></description>
