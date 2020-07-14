@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.0.1 https://podgen.readthedocs.org</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 30 Jun 2020 03:59:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2020 04:04:50 +0000</lastBuildDate>
     <itunes:author>Greg Perkins, Host</itunes:author>
     <managingEditor>greg@ObjectivismSeminar.com (Greg Perkins, Host)</managingEditor>
-    <pubDate>Tue, 30 Jun 2020 05:33:59 +0000</pubDate>
+    <pubDate>Tue, 14 Jul 2020 05:27:39 +0000</pubDate>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
@@ -21,6 +21,13 @@
       <itunes:email>greg@ecosmos.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://www.ObjectivismSeminar.com/archives/rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A Pro-Freedom Approach to Infectious Disease, Session 2</title>
+      <description><![CDATA[We explore _A New Textbook of Americanism: The Politics of Ayn Rand_ edited by Jonathan Hoenig -- http://amzn.com/0692930442  Please visit www.ObjectivismSeminar.com for more information!]]></description>
+      <guid isPermaLink="false">QmSSZhaTDL7KkyMZUtekF9YstqvH2gz9Cq3HALUmDJgsjb</guid>
+      <enclosure url="https://gateway.pinata.cloud/ipfs/QmSSZhaTDL7KkyMZUtekF9YstqvH2gz9Cq3HALUmDJgsjb/audio.mp3" length="42576000" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Jul 2020 05:27:39 +0000</pubDate>
+    </item>
     <item>
       <title>A Pro-Freedom Approach to Infectious Disease, Session 1</title>
       <description><![CDATA[We explore _A New Textbook of Americanism: The Politics of Ayn Rand_ edited by Jonathan Hoenig -- http://amzn.com/0692930442  Please visit www.ObjectivismSeminar.com for more information!]]></description>
