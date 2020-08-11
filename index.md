@@ -26,12 +26,13 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday August 10,
+* Monday August 17,
   8:00pm [Mountain][mtn]:
   We will 
   continue 
-  discussion in Section III (page 13) of
+  discussion in Section IV (page 16) of
   the new ARI paper, ["A Pro-Freedom Approach to Infectious Disease"](https://newideal.aynrand.org/pandemic-response/)
+* Monday August 24: *NO SESSION*
 * Deferred:
   We continue 
   discussion at page 155 in
