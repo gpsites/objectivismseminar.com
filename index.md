@@ -26,11 +26,11 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday September 14,
+* Monday September 21,
   8:00pm [Mountain][mtn]:
   We will 
   continue 
-  discussion in Section IV (page 18) of
+  discussion in Section IV (page 23) of
   the new ARI paper, ["A Pro-Freedom Approach to Infectious Disease"](https://newideal.aynrand.org/pandemic-response/)
 * Deferred:
   We continue 
