@@ -6,12 +6,12 @@
     <description>A weekly online conference call to systematically study the philosophy of Objectivism via the works of prominent Rand scholars.</description>
     <itunes:explicit>yes</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>python-podgen v1.0.1 https://podgen.readthedocs.org</generator>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 15 Sep 2020 03:37:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2020 03:54:50 +0000</lastBuildDate>
     <itunes:author>Greg Perkins, Host</itunes:author>
     <managingEditor>greg@ObjectivismSeminar.com (Greg Perkins, Host)</managingEditor>
-    <pubDate>Tue, 15 Sep 2020 05:05:57 +0000</pubDate>
+    <pubDate>Tue, 22 Sep 2020 05:26:40 +0000</pubDate>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
@@ -21,6 +21,13 @@
       <itunes:email>greg@ecosmos.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://www.ObjectivismSeminar.com/archives/rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A Pro-Freedom Approach to Infectious Disease, Session 9</title>
+      <description><![CDATA[We explore _A New Textbook of Americanism: The Politics of Ayn Rand_ edited by Jonathan Hoenig -- http://amzn.com/0692930442  Please visit www.ObjectivismSeminar.com for more information!]]></description>
+      <guid isPermaLink="false">QmbeRoevsiEM55W6JXRARUv5nkNWCQAcMorSp4CehqCzqY</guid>
+      <enclosure url="https://gateway.pinata.cloud/ipfs/QmbeRoevsiEM55W6JXRARUv5nkNWCQAcMorSp4CehqCzqY/audio.mp3" length="48488000" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Sep 2020 05:26:40 +0000</pubDate>
+    </item>
     <item>
       <title>A Pro-Freedom Approach to Infectious Disease, Session 8</title>
       <description><![CDATA[We explore _A New Textbook of Americanism: The Politics of Ayn Rand_ edited by Jonathan Hoenig -- http://amzn.com/0692930442  Please visit www.ObjectivismSeminar.com for more information!]]></description>
