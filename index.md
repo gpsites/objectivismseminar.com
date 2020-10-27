@@ -26,13 +26,15 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday October 26,
+* Monday November 2,
   8:00pm [Mountain][mtn]:
-  We will 
-  CONCLUDE 
-  discussion in Section VI (page 32) of
-  the new ARI paper, ["A Pro-Freedom Approach to Infectious Disease"](https://newideal.aynrand.org/pandemic-response/)
-* Deferred:
+  Pre-Election Discussion and Predictions
+* Monday November 9: *NO SESSION*
+* Monday November 16,
+  8:00pm [Mountain][mtn]:
+  Post-Election Discussion and Predictions
+* Monday November 23,
+  8:00pm [Mountain][mtn]:
   We continue 
   discussion at page 155 in
   the section "Texbook of Americanism Today",
