@@ -26,13 +26,10 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday November 2,
-  8:00pm [Mountain][mtn]:
-  Pre-Election Discussion and Predictions
 * Monday November 9: *NO SESSION*
 * Monday November 16,
   8:00pm [Mountain][mtn]:
-  Post-Election Discussion and Predictions
+  Post-Election Discussion 
 * Monday November 23,
   8:00pm [Mountain][mtn]:
   We continue 
