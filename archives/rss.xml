@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Nov 2020 04:38:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2020 05:06:45 +0000</lastBuildDate>
     <itunes:author>Greg Perkins, Host</itunes:author>
     <managingEditor>greg@ObjectivismSeminar.com (Greg Perkins, Host)</managingEditor>
-    <pubDate>Tue, 03 Nov 2020 06:02:38 +0000</pubDate>
+    <pubDate>Tue, 17 Nov 2020 07:04:33 +0000</pubDate>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
@@ -21,6 +21,13 @@
       <itunes:email>greg@ecosmos.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://www.ObjectivismSeminar.com/archives/rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Post-2020-Election Rathole</title>
+      <description><![CDATA[We explore _A New Textbook of Americanism: The Politics of Ayn Rand_ edited by Jonathan Hoenig -- http://amzn.com/0692930442  Please visit www.ObjectivismSeminar.com for more information!]]></description>
+      <guid isPermaLink="false">QmZVw2hVZux57m5q9Vi7r9BU1xRYqetmvVyc3TccrSNqji</guid>
+      <enclosure url="https://gateway.pinata.cloud/ipfs/QmZVw2hVZux57m5q9Vi7r9BU1xRYqetmvVyc3TccrSNqji/audio.mp3" length="57832000" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Nov 2020 07:04:33 +0000</pubDate>
+    </item>
     <item>
       <title>Pre-2020-Election Rathole</title>
       <description><![CDATA[We explore _A New Textbook of Americanism: The Politics of Ayn Rand_ edited by Jonathan Hoenig -- http://amzn.com/0692930442  Please visit www.ObjectivismSeminar.com for more information!]]></description>
