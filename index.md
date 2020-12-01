@@ -26,11 +26,10 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday November 23: *NO SESSION*
-* Monday November 30,
+* Monday December 7,
   8:00pm [Mountain][mtn]:
   We continue 
-  discussion at page 155 in
+  discussion at page 152 in
   the section "Texbook of Americanism Today",
   in Jonathan Hoenig's book, [A New Textbook of Americanism][book]
 
