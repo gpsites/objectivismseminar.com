@@ -26,9 +26,9 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday December 22: *NO SESSION*
-* Monday December 29: *NO SESSION*
-* Monday January 4,
+* Monday January 4: NO SESSION
+* Monday January 11, NO SESSION
+* Monday January 18,
   8:00pm [Mountain][mtn]:
   We continue 
   discussion at page 156 in
