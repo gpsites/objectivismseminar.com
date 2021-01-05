@@ -26,7 +26,6 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday January 4: NO SESSION
 * Monday January 11, NO SESSION
 * Monday January 18,
   8:00pm [Mountain][mtn]:
