@@ -10,14 +10,8 @@ Welcome to The Objectivism Seminar, a weekly online conference call to
 [systematically study the philosophy](/about "About the Objectivism Seminar")
 of Objectivism via the works of prominent Rand scholars!
 
-These moderated one-hour sessions are [recorded and podcast](/archives "Session Recording Archives")
-to allow review, catch-up, and even disconnected participation.
-
 Please see our [site FAQ](/faq "Frequently Asked Questions")
 to learn more about what the Seminar is, how it works, and how to participate!
-
-<a href="https://itunes.apple.com/us/podcast/id1450447550?mt=2&ls=1" title="subscribe to this podcast in itunes" target="_blank"><img src="/assets/images/itunes-podcast-badge.svg" height="40" /></a>
-<a href="/archives/rss.xml" title="subscribe to this feed" target="_blank"><img src="/assets/images/rss-feed-badge.png" height="40" /></a>
 
 Upcoming Session Schedule
 -------------------------
