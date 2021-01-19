@@ -35,5 +35,3 @@ this as someone going through them for the first time.
 
 If you are interested, please look over
 <a title="Frequently Asked Questions" href="/faq">the FAQ</a> and join in!
-
-— <a title="Send email to Greg!" href="mailto:greg@objectivismseminar.com" target="_blank">Greg Perkins</a>
