@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Jan 2021 04:57:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 05:15:05 +0000</lastBuildDate>
     <itunes:author>Greg Perkins, Host</itunes:author>
     <managingEditor>greg@ObjectivismSeminar.com (Greg Perkins, Host)</managingEditor>
-    <pubDate>Tue, 05 Jan 2021 06:14:26 +0000</pubDate>
+    <pubDate>Tue, 19 Jan 2021 07:07:30 +0000</pubDate>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
@@ -21,6 +21,13 @@
       <itunes:email>greg@ecosmos.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://www.ObjectivismSeminar.com/archives/rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pre-Inauguration Ratholing</title>
+      <description><![CDATA[We explore _A New Textbook of Americanism: The Politics of Ayn Rand_ edited by Jonathan Hoenig -- http://amzn.com/0692930442  Please visit www.ObjectivismSeminar.com for more information!]]></description>
+      <guid isPermaLink="false">Qma7Pd3ptcPKkvQnFGJcKhUZPCyJsqm2x5t4jsknjsV9Uv</guid>
+      <enclosure url="https://gateway.pinata.cloud/ipfs/Qma7Pd3ptcPKkvQnFGJcKhUZPCyJsqm2x5t4jsknjsV9Uv/audio.mp3" length="55328000" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Jan 2021 07:07:30 +0000</pubDate>
+    </item>
     <item>
       <title>Ratholing on Culture</title>
       <description><![CDATA[We explore _A New Textbook of Americanism: The Politics of Ayn Rand_ edited by Jonathan Hoenig -- http://amzn.com/0692930442  Please visit www.ObjectivismSeminar.com for more information!]]></description>
