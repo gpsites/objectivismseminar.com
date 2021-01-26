@@ -20,7 +20,7 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday January 25,
+* Monday February 1,
   8:00pm [Mountain][mtn]:
   We continue 
   discussion at page 156 in
