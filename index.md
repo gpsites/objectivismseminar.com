@@ -20,7 +20,7 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday March 1,
+* Monday March 8,
   8:00pm [Mountain][mtn]: We discuss the essay, "The Establishing of an Establishment" in Ayn Rand's book [Philosophy: Who Needs It?][book], 
 
 [![Philosophy: Who Needs It?][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
