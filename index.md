@@ -20,11 +20,12 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday May 24,
-  8:00pm [Mountain][mtn]: We discuss the essay, "The Establishing of an Establishment" in Ayn Rand's book [Philosophy: Who Needs It?][book], 
+* Monday May 31: *NO SESSION*
+* Monday June 7,
+  8:00pm [Mountain][mtn]: We begin Chris Land's book [Why Funny Is Funny][book], 
 
-[![Philosophy: Who Needs It?][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
+[![Why Funny Is Funny][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
 
-[cover]:    https://images-na.ssl-images-amazon.com/images/I/410o0Jm0uRL._SX303_BO1,204,203,200_.jpg
-[book]:     https://www.amazon.com/Philosophy-Who-Needs-Ayn-Rand/dp/0451138937
+[cover]:    https://m.media-amazon.com/images/I/411Z1ZTgueL.jpg
+[book]:     https://www.amazon.com/dp/B091GP5Y54
 [mtn]:      http://wwp.greenwichmeantime.com/time-zone/usa/mountain-time/
