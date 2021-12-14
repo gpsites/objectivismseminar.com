@@ -20,7 +20,9 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday December 13,
+* Monday December 20: NO SESSION
+* Monday December 27: NO SESSION
+* Monday January 3,
   8:00pm [Mountain][mtn]: We continue exploring Chris Land's book [Why Funny Is Funny][book].
 
 [![Why Funny Is Funny][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
