@@ -20,9 +20,7 @@ Please join the live sessions from
 
 Here is what we have planned:
 
-* Monday May 16, 8:00: [Mountain][mtn]: We discuss [Economic Theory and Conceptions of Value, Part 2](https://newideal.aynrand.org/economic-theory-and-conceptions-of-value-part-2/)
-* Monday May 23,
-  8:00pm [Mountain][mtn]: We continue exploring Chris Land's book [Why Funny Is Funny][book].
+* Monday May 23, 8:00: [Mountain][mtn]: We discuss [Economic Theory and Conceptions of Value, Part 2](https://newideal.aynrand.org/economic-theory-and-conceptions-of-value-part-2/)
 
 [![Why Funny Is Funny][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
 
