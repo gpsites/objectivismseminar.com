@@ -22,7 +22,7 @@ Here is what we have planned:
  
 * Monday November 21: NO SESSION
 * Monday November 28: NO SESSION
-* Monday December 5, 8:00: [Mountain][mtn]: We begin Ronald Pisaturo's [A Validation of Knowledge][book]
+* Monday December 5, 8:00: [Mountain][mtn]: We begin Ronald Pisaturo's _[A Validation of Knowledge][book]_
 
 [![A Validation of Knowledge][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
 
