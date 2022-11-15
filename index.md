@@ -20,10 +20,12 @@ Please join the live sessions from
 
 Here is what we have planned:
  
-* Monday November 7, 8:00: [Mountain][mtn]: Midterm-eve! And we return to [Economic Theory and Conceptions of Value, Part 2](https://newideal.aynrand.org/economic-theory-and-conceptions-of-value-part-2/)
+* Monday November 21: NO SESSION
+* Monday November 28: NO SESSION
+* Monday December 5, 8:00: [Mountain][mtn]: We begin Ronald Pisaturo's [A Validation of Knowledge][book]
 
-[![Why Funny Is Funny][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
+[![A Validation of Knowledge][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
 
-[cover]:    https://m.media-amazon.com/images/I/411Z1ZTgueL.jpg
-[book]:     https://www.amazon.com/dp/B091GP5Y54
+[cover]:    https://m.media-amazon.com/images/I/61KjxSIh5YL.jpg
+[book]:     https://www.amazon.com/Validation-Knowledge-Objective-Propositions-Mathematics/dp/0999704168
 [mtn]:      http://wwp.greenwichmeantime.com/time-zone/usa/mountain-time/
