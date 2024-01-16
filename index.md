@@ -20,7 +20,7 @@ Please join the live sessions from
 
 Here is what we have planned:
  
-* Monday January 8, 8:00: [Mountain][mtn]: We begin Ayn Rand's _[Atlas Shrugged][book]_. Please be prepared for a general pace of one chapter per session! We will be using resources like ARI's [Teacher's Guide](https://aynrand.org/wp-content/uploads/2020/11/Atlas-Shrugged-Teaching-Guide.pdf) [and others](https://courses.aynrand.org/atlas-project-resources-and-policies/) to aid the discussion.
+* Monday January 22, 8:00: [Mountain][mtn]: We continue Ayn Rand's _[Atlas Shrugged][book]_ with Part 1, Chapter 2. (Please be prepared for a general pace of one chapter per session!) We will be using resources like ARI's [Teacher's Guide](https://aynrand.org/wp-content/uploads/2020/11/Atlas-Shrugged-Teaching-Guide.pdf) [and others](https://courses.aynrand.org/atlas-project-resources-and-policies/) to aid the discussion.
 
 [![Atlas Shrugged][cover]{:style="margin-left:2em;max-width:25em;box-shadow: 5px 5px 15px grey;"}][book]
 
